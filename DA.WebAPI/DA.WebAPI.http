@@ -1,0 +1,6 @@
+@DA.WebAPI_HostAddress = http://localhost:5295
+
+GET {{DA.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

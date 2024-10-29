@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAE378F-B474-4423-9ED3-306E4204184F}|Services\\Shared\\DA.Shared.Domain\\DA.Shared.Domain.csproj|d:\\study\\do an\\sever\\da.webapi\\services\\shared\\da.shared.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAE378F-B474-4423-9ED3-306E4204184F}|Services\\Shared\\DA.Shared.Domain\\DA.Shared.Domain.csproj|solutionrelative:services\\shared\\da.shared.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4108CFE1-841C-4807-A5F6-BCB895DA69D9}|Services\\Shared\\DA.Shared.Dtos\\DA.Shared.Dtos.csproj|d:\\study\\do an\\sever\\da.webapi\\services\\shared\\da.shared.dtos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4108CFE1-841C-4807-A5F6-BCB895DA69D9}|Services\\Shared\\DA.Shared.Dtos\\DA.Shared.Dtos.csproj|solutionrelative:services\\shared\\da.shared.dtos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE932425-40F9-4832-9EE1-4E921CAE5E15}|Services\\Shared\\DA.Shared.Infrastructure\\DA.Shared.Infrastructure.csproj|d:\\study\\do an\\sever\\da.webapi\\services\\shared\\da.shared.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE932425-40F9-4832-9EE1-4E921CAE5E15}|Services\\Shared\\DA.Shared.Infrastructure\\DA.Shared.Infrastructure.csproj|solutionrelative:services\\shared\\da.shared.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E11DFA-26F6-43CD-BFAE-566168DE6AFA}|Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj|d:\\study\\do an\\sever\\da.webapi\\services\\shared\\da.shared.applicationservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E11DFA-26F6-43CD-BFAE-566168DE6AFA}|Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj|solutionrelative:services\\shared\\da.shared.applicationservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2073291D-1041-4D4D-B86D-A552232471AC}|Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj|d:\\study\\do an\\sever\\da.webapi\\services\\vehicle\\da.vehicle.dtos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2073291D-1041-4D4D-B86D-A552232471AC}|Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj|solutionrelative:services\\vehicle\\da.vehicle.dtos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0BB0E-947C-450A-941A-F2E03A2F2177}|Services\\Vehicle\\DA.Vehicle.Infrastructure\\DA.Vehicle.Infrastructure.csproj|d:\\study\\do an\\sever\\da.webapi\\services\\vehicle\\da.vehicle.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0BB0E-947C-450A-941A-F2E03A2F2177}|Services\\Vehicle\\DA.Vehicle.Infrastructure\\DA.Vehicle.Infrastructure.csproj|solutionrelative:services\\vehicle\\da.vehicle.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFD7319-9EA6-4ECA-9140-8FD485122E97}|Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj|d:\\study\\do an\\sever\\da.webapi\\services\\vehicle\\da.vehicle.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFD7319-9EA6-4ECA-9140-8FD485122E97}|Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj|solutionrelative:services\\vehicle\\da.vehicle.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2161EB35-4F50-4B8A-8074-CD4B98404321}|Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj|d:\\study\\do an\\sever\\da.webapi\\services\\vehicle\\da.vehicle.applicationservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2161EB35-4F50-4B8A-8074-CD4B98404321}|Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj|solutionrelative:services\\vehicle\\da.vehicle.applicationservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1779056B-D7C0-472B-A695-CACF1163423E}|Services\\Order\\DA.Order.Dtos\\DA.Order.Dtos.csproj|d:\\study\\do an\\sever\\da.webapi\\services\\order\\da.order.dtos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1779056B-D7C0-472B-A695-CACF1163423E}|Services\\Order\\DA.Order.Dtos\\DA.Order.Dtos.csproj|solutionrelative:services\\order\\da.order.dtos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25DE6880-2999-4C24-A177-4470F693710E}|Services\\Order\\DA.Order.Infrastructure\\DA.Order.Infrastructure.csproj|d:\\study\\do an\\sever\\da.webapi\\services\\order\\da.order.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25DE6880-2999-4C24-A177-4470F693710E}|Services\\Order\\DA.Order.Infrastructure\\DA.Order.Infrastructure.csproj|solutionrelative:services\\order\\da.order.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B237B62-25A3-449B-8925-595205D7BE2C}|Services\\Order\\DA.Order.Domain\\DA.Order.Domain.csproj|d:\\study\\do an\\sever\\da.webapi\\services\\order\\da.order.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B237B62-25A3-449B-8925-595205D7BE2C}|Services\\Order\\DA.Order.Domain\\DA.Order.Domain.csproj|solutionrelative:services\\order\\da.order.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C5F82D-CA19-4B51-BC15-06125320886F}|Services\\Order\\DA.Order.ApplicationService\\DA.Order.ApplicationService.csproj|d:\\study\\do an\\sever\\da.webapi\\services\\order\\da.order.applicationservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C5F82D-CA19-4B51-BC15-06125320886F}|Services\\Order\\DA.Order.ApplicationService\\DA.Order.ApplicationService.csproj|solutionrelative:services\\order\\da.order.applicationservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA49D60-8E77-4307-B268-02B7EC3C24CF}|Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj|d:\\study\\do an\\sever\\da.webapi\\services\\auth\\da.auth.dtos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAA49D60-8E77-4307-B268-02B7EC3C24CF}|Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj|solutionrelative:services\\auth\\da.auth.dtos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A57CC68-5E03-498A-B86F-36BC440CB844}|Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj|d:\\study\\do an\\sever\\da.webapi\\services\\auth\\da.auth.applicationservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A57CC68-5E03-498A-B86F-36BC440CB844}|Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj|solutionrelative:services\\auth\\da.auth.applicationservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12031CEB-F6AE-470D-A09D-7C525348DD07}|Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj|d:\\study\\do an\\sever\\da.webapi\\services\\auth\\da.auth.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12031CEB-F6AE-470D-A09D-7C525348DD07}|Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj|solutionrelative:services\\auth\\da.auth.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1085D3C-1BD1-4125-8304-410AA930A39D}|Services\\Auth\\DA.Auth.Infrastructure\\DA.Auth.Infrastructure.csproj|d:\\study\\do an\\sever\\da.webapi\\services\\auth\\da.auth.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1085D3C-1BD1-4125-8304-410AA930A39D}|Services\\Auth\\DA.Auth.Infrastructure\\DA.Auth.Infrastructure.csproj|solutionrelative:services\\auth\\da.auth.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Shared\\DA.Shared.Domain\\Class1.cs",
+              "ToolTip": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Domain\\Class1.cs",
+              "RelativeToolTip": "Services\\Shared\\DA.Shared.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:09:50.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Dtos\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Shared\\DA.Shared.Dtos\\Class1.cs",
+              "ToolTip": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Dtos\\Class1.cs",
+              "RelativeToolTip": "Services\\Shared\\DA.Shared.Dtos\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:09:19.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Shared\\DA.Shared.Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Services\\Shared\\DA.Shared.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:08:55.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.ApplicationService\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Shared\\DA.Shared.ApplicationService\\Class1.cs",
+              "ToolTip": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.ApplicationService\\Class1.cs",
+              "RelativeToolTip": "Services\\Shared\\DA.Shared.ApplicationService\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:08:18.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Dtos\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.Dtos\\Class1.cs",
+              "ToolTip": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Dtos\\Class1.cs",
+              "RelativeToolTip": "Services\\Vehicle\\DA.Vehicle.Dtos\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:07:16.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Services\\Vehicle\\DA.Vehicle.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:06:46.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.Domain\\Class1.cs",
+              "ToolTip": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Domain\\Class1.cs",
+              "RelativeToolTip": "Services\\Vehicle\\DA.Vehicle.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:06:03.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.ApplicationService\\Class1.cs",
+              "ToolTip": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\Class1.cs",
+              "RelativeToolTip": "Services\\Vehicle\\DA.Vehicle.ApplicationService\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:05:28.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Order\\DA.Order.Dtos\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\DA.Order.Dtos\\Class1.cs",
+              "ToolTip": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Order\\DA.Order.Dtos\\Class1.cs",
+              "RelativeToolTip": "Services\\Order\\DA.Order.Dtos\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:02:48.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Order\\DA.Order.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\DA.Order.Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Order\\DA.Order.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Services\\Order\\DA.Order.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:02:25.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Order\\DA.Order.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\DA.Order.Domain\\Class1.cs",
+              "ToolTip": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Order\\DA.Order.Domain\\Class1.cs",
+              "RelativeToolTip": "Services\\Order\\DA.Order.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:01:53.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Order\\DA.Order.ApplicationService\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\DA.Order.ApplicationService\\Class1.cs",
+              "ToolTip": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Order\\DA.Order.ApplicationService\\Class1.cs",
+              "RelativeToolTip": "Services\\Order\\DA.Order.ApplicationService\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:01:28.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Dtos\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Auth\\DA.Auth.Dtos\\Class1.cs",
+              "ToolTip": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Dtos\\Class1.cs",
+              "RelativeToolTip": "Services\\Auth\\DA.Auth.Dtos\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:00:57.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Auth\\DA.Auth.ApplicationService\\Class1.cs",
+              "ToolTip": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\Class1.cs",
+              "RelativeToolTip": "Services\\Auth\\DA.Auth.ApplicationService\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:00:30.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Auth\\DA.Auth.Domain\\Class1.cs",
+              "ToolTip": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Domain\\Class1.cs",
+              "RelativeToolTip": "Services\\Auth\\DA.Auth.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:59:58.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Auth\\DA.Auth.Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Services\\Auth\\DA.Auth.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:58:58.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
