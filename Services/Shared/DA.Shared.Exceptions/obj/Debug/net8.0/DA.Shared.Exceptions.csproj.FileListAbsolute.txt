@@ -1,0 +1,11 @@
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Exceptions\bin\Debug\net8.0\DA.Shared.Exceptions.deps.json
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Exceptions\bin\Debug\net8.0\DA.Shared.Exceptions.dll
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Exceptions\bin\Debug\net8.0\DA.Shared.Exceptions.pdb
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Exceptions\obj\Debug\net8.0\DA.Shared.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Exceptions\obj\Debug\net8.0\DA.Shared.Exceptions.AssemblyInfoInputs.cache
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Exceptions\obj\Debug\net8.0\DA.Shared.Exceptions.AssemblyInfo.cs
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Exceptions\obj\Debug\net8.0\DA.Shared.Exceptions.csproj.CoreCompileInputs.cache
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Exceptions\obj\Debug\net8.0\DA.Shared.Exceptions.dll
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Exceptions\obj\Debug\net8.0\refint\DA.Shared.Exceptions.dll
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Exceptions\obj\Debug\net8.0\DA.Shared.Exceptions.pdb
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Exceptions\obj\Debug\net8.0\ref\DA.Shared.Exceptions.dll

@@ -1,0 +1,15 @@
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Domain\bin\Debug\net8.0\DA.Auth.Domain.deps.json
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Domain\bin\Debug\net8.0\DA.Auth.Domain.dll
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Domain\bin\Debug\net8.0\DA.Auth.Domain.pdb
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Domain\bin\Debug\net8.0\DA.Shared.Constant.dll
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Domain\bin\Debug\net8.0\DA.Shared.Constant.pdb
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Domain\obj\Debug\net8.0\DA.Auth.Domain.csproj.AssemblyReference.cache
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Domain\obj\Debug\net8.0\DA.Auth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Domain\obj\Debug\net8.0\DA.Auth.Domain.AssemblyInfoInputs.cache
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Domain\obj\Debug\net8.0\DA.Auth.Domain.AssemblyInfo.cs
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Domain\obj\Debug\net8.0\DA.Auth.Domain.csproj.CoreCompileInputs.cache
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Domain\obj\Debug\net8.0\DA.Auth..DB4121D9.Up2Date
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Domain\obj\Debug\net8.0\DA.Auth.Domain.dll
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Domain\obj\Debug\net8.0\refint\DA.Auth.Domain.dll
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Domain\obj\Debug\net8.0\DA.Auth.Domain.pdb
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Domain\obj\Debug\net8.0\ref\DA.Auth.Domain.dll

@@ -1,0 +1,11 @@
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Dtos\bin\Debug\net8.0\DA.Auth.Dtos.deps.json
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Dtos\bin\Debug\net8.0\DA.Auth.Dtos.dll
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Dtos\bin\Debug\net8.0\DA.Auth.Dtos.pdb
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\DA.Auth.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\DA.Auth.Dtos.AssemblyInfoInputs.cache
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\DA.Auth.Dtos.AssemblyInfo.cs
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\DA.Auth.Dtos.csproj.CoreCompileInputs.cache
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\DA.Auth.Dtos.dll
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\refint\DA.Auth.Dtos.dll
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\DA.Auth.Dtos.pdb
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\ref\DA.Auth.Dtos.dll

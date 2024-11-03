@@ -1,0 +1,15 @@
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Untils\obj\Debug\net8.0\DA.Shared.Untils.csproj.AssemblyReference.cache
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Untils\obj\Debug\net8.0\DA.Shared.Untils.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Untils\obj\Debug\net8.0\DA.Shared.Untils.AssemblyInfoInputs.cache
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Untils\obj\Debug\net8.0\DA.Shared.Untils.AssemblyInfo.cs
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Untils\obj\Debug\net8.0\DA.Shared.Untils.csproj.CoreCompileInputs.cache
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Untils\bin\Debug\net8.0\DA.Shared.Untils.deps.json
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Untils\bin\Debug\net8.0\DA.Shared.Untils.dll
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Untils\bin\Debug\net8.0\DA.Shared.Untils.pdb
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Untils\bin\Debug\net8.0\DA.Shared.Exceptions.dll
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Untils\bin\Debug\net8.0\DA.Shared.Exceptions.pdb
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Untils\obj\Debug\net8.0\DA.Share.CEF56B10.Up2Date
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Untils\obj\Debug\net8.0\DA.Shared.Untils.dll
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Untils\obj\Debug\net8.0\refint\DA.Shared.Untils.dll
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Untils\obj\Debug\net8.0\DA.Shared.Untils.pdb
+D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Untils\obj\Debug\net8.0\ref\DA.Shared.Untils.dll
