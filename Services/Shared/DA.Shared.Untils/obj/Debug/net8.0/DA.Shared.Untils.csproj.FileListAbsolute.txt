@@ -28,3 +28,19 @@ E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Untils\obj\Debug\net8.0
 E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Untils\obj\Debug\net8.0\refint\DA.Shared.Untils.dll
 E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Untils\obj\Debug\net8.0\DA.Shared.Untils.pdb
 E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Untils\obj\Debug\net8.0\ref\DA.Shared.Untils.dll
+D:\C#\Doan\Services\Shared\DA.Shared.Untils\bin\Debug\net8.0\DA.Shared.Untils.deps.json
+D:\C#\Doan\Services\Shared\DA.Shared.Untils\bin\Debug\net8.0\DA.Shared.Untils.dll
+D:\C#\Doan\Services\Shared\DA.Shared.Untils\bin\Debug\net8.0\DA.Shared.Untils.pdb
+D:\C#\Doan\Services\Shared\DA.Shared.Untils\bin\Debug\net8.0\DA.Shared.Exceptions.dll
+D:\C#\Doan\Services\Shared\DA.Shared.Untils\bin\Debug\net8.0\DA.Shared.Exceptions.pdb
+D:\C#\Doan\Services\Shared\DA.Shared.Untils\obj\Debug\net8.0\DA.Shared.Untils.csproj.AssemblyReference.cache
+D:\C#\Doan\Services\Shared\DA.Shared.Untils\obj\Debug\net8.0\DA.Shared.Untils.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Doan\Services\Shared\DA.Shared.Untils\obj\Debug\net8.0\DA.Shared.Untils.AssemblyInfoInputs.cache
+D:\C#\Doan\Services\Shared\DA.Shared.Untils\obj\Debug\net8.0\DA.Shared.Untils.AssemblyInfo.cs
+D:\C#\Doan\Services\Shared\DA.Shared.Untils\obj\Debug\net8.0\DA.Shared.Untils.csproj.CoreCompileInputs.cache
+D:\C#\Doan\Services\Shared\DA.Shared.Untils\obj\Debug\net8.0\DA.Shared.Untils.sourcelink.json
+D:\C#\Doan\Services\Shared\DA.Shared.Untils\obj\Debug\net8.0\DA.Share.CEF56B10.Up2Date
+D:\C#\Doan\Services\Shared\DA.Shared.Untils\obj\Debug\net8.0\DA.Shared.Untils.dll
+D:\C#\Doan\Services\Shared\DA.Shared.Untils\obj\Debug\net8.0\refint\DA.Shared.Untils.dll
+D:\C#\Doan\Services\Shared\DA.Shared.Untils\obj\Debug\net8.0\DA.Shared.Untils.pdb
+D:\C#\Doan\Services\Shared\DA.Shared.Untils\obj\Debug\net8.0\ref\DA.Shared.Untils.dll

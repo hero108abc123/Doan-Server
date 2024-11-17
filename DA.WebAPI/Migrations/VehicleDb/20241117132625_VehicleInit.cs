@@ -37,7 +37,7 @@ namespace DA.WebAPI.Migrations.VehicleDb
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Position = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    isAvailable = table.Column<int>(type: "int", nullable: false),
+                    IsAvailable = table.Column<int>(type: "int", nullable: false),
                     BusId = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>

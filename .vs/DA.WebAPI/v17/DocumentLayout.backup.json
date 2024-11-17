@@ -7,6 +7,34 @@
       "RelativeMoniker": "D:0:0:{B8B79D7E-CE43-4E0B-BDB4-8C698834DE1C}|Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj|solutionrelative:services\\vehicle\\da.vehicle.applicationservice\\busmodule\\implements\\busservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B8B79D7E-CE43-4E0B-BDB4-8C698834DE1C}|Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj|e:\\study\\do an\\sever\\da.webapi\\services\\vehicle\\da.vehicle.applicationservice\\busmodule\\abstracts\\ibusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B79D7E-CE43-4E0B-BDB4-8C698834DE1C}|Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj|solutionrelative:services\\vehicle\\da.vehicle.applicationservice\\busmodule\\abstracts\\ibusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A57CC68-5E03-498A-B86F-36BC440CB844}|Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj|e:\\study\\do an\\sever\\da.webapi\\services\\auth\\da.auth.applicationservice\\usermodule\\implements\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A57CC68-5E03-498A-B86F-36BC440CB844}|Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj|solutionrelative:services\\auth\\da.auth.applicationservice\\usermodule\\implements\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A57CC68-5E03-498A-B86F-36BC440CB844}|Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj|e:\\study\\do an\\sever\\da.webapi\\services\\auth\\da.auth.applicationservice\\usermodule\\abstracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A57CC68-5E03-498A-B86F-36BC440CB844}|Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj|solutionrelative:services\\auth\\da.auth.applicationservice\\usermodule\\abstracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72844AD-1D21-4BF3-B819-020A3B1BD0B6}|Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj|e:\\study\\do an\\sever\\da.webapi\\services\\vehicle\\da.vehicle.domain\\vehicleseat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72844AD-1D21-4BF3-B819-020A3B1BD0B6}|Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj|solutionrelative:services\\vehicle\\da.vehicle.domain\\vehicleseat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72844AD-1D21-4BF3-B819-020A3B1BD0B6}|Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj|e:\\study\\do an\\sever\\da.webapi\\services\\vehicle\\da.vehicle.domain\\vehiclebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72844AD-1D21-4BF3-B819-020A3B1BD0B6}|Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj|solutionrelative:services\\vehicle\\da.vehicle.domain\\vehiclebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B79D7E-CE43-4E0B-BDB4-8C698834DE1C}|Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj|e:\\study\\do an\\sever\\da.webapi\\services\\vehicle\\da.vehicle.applicationservice\\common\\vehicleservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B79D7E-CE43-4E0B-BDB4-8C698834DE1C}|Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj|solutionrelative:services\\vehicle\\da.vehicle.applicationservice\\common\\vehicleservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A57CC68-5E03-498A-B86F-36BC440CB844}|Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj|e:\\study\\do an\\sever\\da.webapi\\services\\auth\\da.auth.applicationservice\\usermodule\\implements\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A57CC68-5E03-498A-B86F-36BC440CB844}|Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj|solutionrelative:services\\auth\\da.auth.applicationservice\\usermodule\\implements\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7A57CC68-5E03-498A-B86F-36BC440CB844}|Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj|e:\\study\\do an\\sever\\da.webapi\\services\\auth\\da.auth.applicationservice\\usermodule\\implements\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A57CC68-5E03-498A-B86F-36BC440CB844}|Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj|solutionrelative:services\\auth\\da.auth.applicationservice\\usermodule\\implements\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,24 +43,12 @@
       "RelativeMoniker": "D:0:0:{B8B79D7E-CE43-4E0B-BDB4-8C698834DE1C}|Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj|solutionrelative:services\\vehicle\\da.vehicle.applicationservice\\startup\\vehiclestartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8B79D7E-CE43-4E0B-BDB4-8C698834DE1C}|Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj|e:\\study\\do an\\sever\\da.webapi\\services\\vehicle\\da.vehicle.applicationservice\\common\\vehicleservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8B79D7E-CE43-4E0B-BDB4-8C698834DE1C}|Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj|solutionrelative:services\\vehicle\\da.vehicle.applicationservice\\common\\vehicleservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4AB6BEA7-2691-4B5D-96FE-700F018CC5D9}|Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj|e:\\study\\do an\\sever\\da.webapi\\services\\vehicle\\da.vehicle.dtos\\busmodule\\updatebusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AB6BEA7-2691-4B5D-96FE-700F018CC5D9}|Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj|solutionrelative:services\\vehicle\\da.vehicle.dtos\\busmodule\\updatebusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4AB6BEA7-2691-4B5D-96FE-700F018CC5D9}|Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj|e:\\study\\do an\\sever\\da.webapi\\services\\vehicle\\da.vehicle.dtos\\busmodule\\createbusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AB6BEA7-2691-4B5D-96FE-700F018CC5D9}|Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj|solutionrelative:services\\vehicle\\da.vehicle.dtos\\busmodule\\createbusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A57CC68-5E03-498A-B86F-36BC440CB844}|Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj|e:\\study\\do an\\sever\\da.webapi\\services\\auth\\da.auth.applicationservice\\usermodule\\implements\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A57CC68-5E03-498A-B86F-36BC440CB844}|Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj|solutionrelative:services\\auth\\da.auth.applicationservice\\usermodule\\implements\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8B79D7E-CE43-4E0B-BDB4-8C698834DE1C}|Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj|e:\\study\\do an\\sever\\da.webapi\\services\\vehicle\\da.vehicle.applicationservice\\busmodule\\abstracts\\ibusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8B79D7E-CE43-4E0B-BDB4-8C698834DE1C}|Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj|solutionrelative:services\\vehicle\\da.vehicle.applicationservice\\busmodule\\abstracts\\ibusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4AB6BEA7-2691-4B5D-96FE-700F018CC5D9}|Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj|e:\\study\\do an\\sever\\da.webapi\\services\\vehicle\\da.vehicle.dtos\\seatmodule\\updateseatinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,16 +71,8 @@
       "RelativeMoniker": "D:0:0:{BAA49D60-8E77-4307-B268-02B7EC3C24CF}|Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj|solutionrelative:services\\auth\\da.auth.dtos\\customermodule\\updatecustomerbyadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D72844AD-1D21-4BF3-B819-020A3B1BD0B6}|Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj|e:\\study\\do an\\sever\\da.webapi\\services\\vehicle\\da.vehicle.domain\\vehiclebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D72844AD-1D21-4BF3-B819-020A3B1BD0B6}|Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj|solutionrelative:services\\vehicle\\da.vehicle.domain\\vehiclebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4AB6BEA7-2691-4B5D-96FE-700F018CC5D9}|Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj|e:\\study\\do an\\sever\\da.webapi\\services\\vehicle\\da.vehicle.dtos\\busmodule\\busdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AB6BEA7-2691-4B5D-96FE-700F018CC5D9}|Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj|solutionrelative:services\\vehicle\\da.vehicle.dtos\\busmodule\\busdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D72844AD-1D21-4BF3-B819-020A3B1BD0B6}|Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj|e:\\study\\do an\\sever\\da.webapi\\services\\vehicle\\da.vehicle.domain\\vehicleseat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D72844AD-1D21-4BF3-B819-020A3B1BD0B6}|Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj|solutionrelative:services\\vehicle\\da.vehicle.domain\\vehicleseat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71A03757-08B6-44DD-AB16-B58C484E71E4}|DA.WebAPI\\DA.WebAPI.csproj|e:\\study\\do an\\sever\\da.webapi\\da.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -135,10 +143,6 @@
       "RelativeMoniker": "D:0:0:{71A03757-08B6-44DD-AB16-B58C484E71E4}|DA.WebAPI\\DA.WebAPI.csproj|solutionrelative:da.webapi\\controllers\\auth\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A57CC68-5E03-498A-B86F-36BC440CB844}|Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj|e:\\study\\do an\\sever\\da.webapi\\services\\auth\\da.auth.applicationservice\\usermodule\\abstracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A57CC68-5E03-498A-B86F-36BC440CB844}|Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj|solutionrelative:services\\auth\\da.auth.applicationservice\\usermodule\\abstracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{71A03757-08B6-44DD-AB16-B58C484E71E4}|DA.WebAPI\\DA.WebAPI.csproj|e:\\study\\do an\\sever\\da.webapi\\da.webapi\\controllers\\auth\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71A03757-08B6-44DD-AB16-B58C484E71E4}|DA.WebAPI\\DA.WebAPI.csproj|solutionrelative:da.webapi\\controllers\\auth\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -153,10 +157,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3236FF52-DD14-48E7-BB66-88C47D41B6ED}|Services\\Shared\\DA.Shared.Dtos\\DA.Shared.Dtos.csproj|e:\\study\\do an\\sever\\da.webapi\\services\\shared\\da.shared.dtos\\filterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3236FF52-DD14-48E7-BB66-88C47D41B6ED}|Services\\Shared\\DA.Shared.Dtos\\DA.Shared.Dtos.csproj|solutionrelative:services\\shared\\da.shared.dtos\\filterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A57CC68-5E03-498A-B86F-36BC440CB844}|Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj|e:\\study\\do an\\sever\\da.webapi\\services\\auth\\da.auth.applicationservice\\usermodule\\implements\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A57CC68-5E03-498A-B86F-36BC440CB844}|Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj|solutionrelative:services\\auth\\da.auth.applicationservice\\usermodule\\implements\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71A03757-08B6-44DD-AB16-B58C484E71E4}|DA.WebAPI\\DA.WebAPI.csproj|e:\\study\\do an\\sever\\da.webapi\\da.webapi\\controllers\\auth\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -188,79 +188,27 @@
               "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.ApplicationService\\BusModule\\Implements\\BusService.cs",
               "ToolTip": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\BusModule\\Implements\\BusService.cs",
               "RelativeToolTip": "Services\\Vehicle\\DA.Vehicle.ApplicationService\\BusModule\\Implements\\BusService.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAwEwAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwCQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T17:24:02.836Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IBusService.cs",
-              "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\BusModule\\Abstracts\\IBusService.cs",
-              "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.ApplicationService\\BusModule\\Abstracts\\IBusService.cs",
-              "ToolTip": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\BusModule\\Abstracts\\IBusService.cs",
-              "RelativeToolTip": "Services\\Vehicle\\DA.Vehicle.ApplicationService\\BusModule\\Abstracts\\IBusService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T17:23:33.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "AdminService.cs",
               "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Implements\\AdminService.cs",
               "RelativeDocumentMoniker": "Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Implements\\AdminService.cs",
               "ToolTip": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Implements\\AdminService.cs",
               "RelativeToolTip": "Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Implements\\AdminService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T15:21:47.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomerService.cs",
-              "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Implements\\CustomerService.cs",
-              "RelativeDocumentMoniker": "Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Implements\\CustomerService.cs",
-              "ToolTip": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Implements\\CustomerService.cs",
-              "RelativeToolTip": "Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Implements\\CustomerService.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAuwHQAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T14:23:50.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateBusDto.cs",
-              "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Dtos\\BusModule\\CreateBusDto.cs",
-              "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.Dtos\\BusModule\\CreateBusDto.cs",
-              "ToolTip": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Dtos\\BusModule\\CreateBusDto.cs",
-              "RelativeToolTip": "Services\\Vehicle\\DA.Vehicle.Dtos\\BusModule\\CreateBusDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T17:08:52.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UpdateBusDto.cs",
-              "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Dtos\\BusModule\\UpdateBusDto.cs",
-              "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.Dtos\\BusModule\\UpdateBusDto.cs",
-              "ToolTip": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Dtos\\BusModule\\UpdateBusDto.cs",
-              "RelativeToolTip": "Services\\Vehicle\\DA.Vehicle.Dtos\\BusModule\\UpdateBusDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T17:09:18.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "VehicleServiceBase.cs",
               "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\Common\\VehicleServiceBase.cs",
               "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.ApplicationService\\Common\\VehicleServiceBase.cs",
@@ -273,7 +221,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Implements\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Implements\\UserService.cs",
+              "ToolTip": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Implements\\UserService.cs",
+              "RelativeToolTip": "Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Implements\\UserService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAEwBkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:24:20.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehicleBus.cs",
+              "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Domain\\VehicleBus.cs",
+              "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.Domain\\VehicleBus.cs",
+              "ToolTip": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Domain\\VehicleBus.cs",
+              "RelativeToolTip": "Services\\Vehicle\\DA.Vehicle.Domain\\VehicleBus.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:14:26.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VehicleSeat.cs",
+              "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Domain\\VehicleSeat.cs",
+              "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.Domain\\VehicleSeat.cs",
+              "ToolTip": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Domain\\VehicleSeat.cs",
+              "RelativeToolTip": "Services\\Vehicle\\DA.Vehicle.Domain\\VehicleSeat.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:14:41.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Abstracts\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Abstracts\\IUserService.cs",
+              "ToolTip": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Abstracts\\IUserService.cs",
+              "RelativeToolTip": "Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Abstracts\\IUserService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAewAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T00:57:51.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBusService.cs",
+              "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\BusModule\\Abstracts\\IBusService.cs",
+              "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.ApplicationService\\BusModule\\Abstracts\\IBusService.cs",
+              "ToolTip": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\BusModule\\Abstracts\\IBusService.cs",
+              "RelativeToolTip": "Services\\Vehicle\\DA.Vehicle.ApplicationService\\BusModule\\Abstracts\\IBusService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:23:33.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Implements\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Implements\\CustomerService.cs",
+              "ToolTip": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Implements\\CustomerService.cs",
+              "RelativeToolTip": "Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Implements\\CustomerService.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAuwHQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:23:50.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "VehicleStartup.cs",
               "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\Startup\\VehicleStartup.cs",
               "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.ApplicationService\\Startup\\VehicleStartup.cs",
@@ -281,12 +307,35 @@
               "RelativeToolTip": "Services\\Vehicle\\DA.Vehicle.ApplicationService\\Startup\\VehicleStartup.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAiwB0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T13:54:29.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T13:54:29.85Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
+              "Title": "UpdateBusDto.cs",
+              "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Dtos\\BusModule\\UpdateBusDto.cs",
+              "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.Dtos\\BusModule\\UpdateBusDto.cs",
+              "ToolTip": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Dtos\\BusModule\\UpdateBusDto.cs",
+              "RelativeToolTip": "Services\\Vehicle\\DA.Vehicle.Dtos\\BusModule\\UpdateBusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:09:18.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateBusDto.cs",
+              "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Dtos\\BusModule\\CreateBusDto.cs",
+              "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.Dtos\\BusModule\\CreateBusDto.cs",
+              "ToolTip": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Dtos\\BusModule\\CreateBusDto.cs",
+              "RelativeToolTip": "Services\\Vehicle\\DA.Vehicle.Dtos\\BusModule\\CreateBusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:08:52.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "SeatDto.cs",
               "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Dtos\\SeatModule\\SeatDto.cs",
               "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.Dtos\\SeatModule\\SeatDto.cs",
@@ -294,12 +343,11 @@
               "RelativeToolTip": "Services\\Vehicle\\DA.Vehicle.Dtos\\SeatModule\\SeatDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T17:09:32.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T17:09:32.755Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "CreateSeatDto.cs",
               "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Dtos\\SeatModule\\CreateSeatDto.cs",
               "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.Dtos\\SeatModule\\CreateSeatDto.cs",
@@ -307,12 +355,11 @@
               "RelativeToolTip": "Services\\Vehicle\\DA.Vehicle.Dtos\\SeatModule\\CreateSeatDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T17:09:45.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T17:09:45.364Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "UpdateCustomerDto.cs",
               "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Dtos\\CustomerModule\\UpdateCustomerDto.cs",
               "RelativeDocumentMoniker": "Services\\Auth\\DA.Auth.Dtos\\CustomerModule\\UpdateCustomerDto.cs",
@@ -320,12 +367,11 @@
               "RelativeToolTip": "Services\\Auth\\DA.Auth.Dtos\\CustomerModule\\UpdateCustomerDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T16:44:53.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T16:44:53.345Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "UpdateCustomerByAdminDto.cs",
               "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Dtos\\CustomerModule\\UpdateCustomerByAdminDto.cs",
               "RelativeDocumentMoniker": "Services\\Auth\\DA.Auth.Dtos\\CustomerModule\\UpdateCustomerByAdminDto.cs",
@@ -333,12 +379,11 @@
               "RelativeToolTip": "Services\\Auth\\DA.Auth.Dtos\\CustomerModule\\UpdateCustomerByAdminDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T16:44:50.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T16:44:50.29Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "UpdateSeatInfoDto.cs",
               "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Dtos\\SeatModule\\UpdateSeatInfoDto.cs",
               "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.Dtos\\SeatModule\\UpdateSeatInfoDto.cs",
@@ -346,25 +391,11 @@
               "RelativeToolTip": "Services\\Vehicle\\DA.Vehicle.Dtos\\SeatModule\\UpdateSeatInfoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T17:10:04.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T17:10:04.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "VehicleBus.cs",
-              "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Domain\\VehicleBus.cs",
-              "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.Domain\\VehicleBus.cs",
-              "ToolTip": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Domain\\VehicleBus.cs",
-              "RelativeToolTip": "Services\\Vehicle\\DA.Vehicle.Domain\\VehicleBus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T14:14:26.825Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "BusDto.cs",
               "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Dtos\\BusModule\\BusDto.cs",
               "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.Dtos\\BusModule\\BusDto.cs",
@@ -372,25 +403,11 @@
               "RelativeToolTip": "Services\\Vehicle\\DA.Vehicle.Dtos\\BusModule\\BusDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T17:08:30.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T17:08:30.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "VehicleSeat.cs",
-              "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Domain\\VehicleSeat.cs",
-              "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.Domain\\VehicleSeat.cs",
-              "ToolTip": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Domain\\VehicleSeat.cs",
-              "RelativeToolTip": "Services\\Vehicle\\DA.Vehicle.Domain\\VehicleSeat.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBYAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T14:14:41.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\DA.WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "DA.WebAPI\\Program.cs",
@@ -402,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "VehicleDbContext.cs",
               "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Infrastructure\\VehicleDbContext.cs",
               "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.Infrastructure\\VehicleDbContext.cs",
@@ -414,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\DA.WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "DA.WebAPI\\appsettings.json",
@@ -426,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "DA.Vehicle.Infrastructure.csproj",
               "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Infrastructure\\DA.Vehicle.Infrastructure.csproj",
               "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.Infrastructure\\DA.Vehicle.Infrastructure.csproj",
@@ -438,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "DA.Vehicle.Dtos.csproj",
               "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj",
               "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj",
@@ -450,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "DbSchema.cs",
               "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Constant\\Database\\DbSchema.cs",
               "RelativeDocumentMoniker": "Services\\Shared\\DA.Shared.Constant\\Database\\DbSchema.cs",
@@ -462,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "AuthCustomer.cs",
               "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Domain\\AuthCustomer.cs",
               "RelativeDocumentMoniker": "Services\\Auth\\DA.Auth.Domain\\AuthCustomer.cs",
@@ -474,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "AuthUser.cs",
               "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Domain\\AuthUser.cs",
               "RelativeDocumentMoniker": "Services\\Auth\\DA.Auth.Domain\\AuthUser.cs",
@@ -486,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "AuthDbContext.cs",
               "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Infrastructure\\AuthDbContext.cs",
               "RelativeDocumentMoniker": "Services\\Auth\\DA.Auth.Infrastructure\\AuthDbContext.cs",
@@ -498,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "DA.Auth.Infrastructure.csproj",
               "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Infrastructure\\DA.Auth.Infrastructure.csproj",
               "RelativeDocumentMoniker": "Services\\Auth\\DA.Auth.Infrastructure\\DA.Auth.Infrastructure.csproj",
@@ -510,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "AuthStartup.cs",
               "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\Startup\\AuthStartup.cs",
               "RelativeDocumentMoniker": "Services\\Auth\\DA.Auth.ApplicationService\\Startup\\AuthStartup.cs",
@@ -522,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "DA.Vehicle.ApplicationService.csproj",
               "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj",
               "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj",
@@ -534,7 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "DA.Vehicle.Domain.csproj",
               "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj",
               "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj",
@@ -546,7 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "DA.Auth.Domain.csproj",
               "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj",
               "RelativeDocumentMoniker": "Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj",
@@ -558,7 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "DA.Auth.ApplicationService.csproj",
               "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj",
               "RelativeDocumentMoniker": "Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj",
@@ -570,7 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "IAdminService.cs",
               "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Abstracts\\IAdminService.cs",
               "RelativeDocumentMoniker": "Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Abstracts\\IAdminService.cs",
@@ -582,7 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "AdminController.cs",
               "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\DA.WebAPI\\Controllers\\Auth\\AdminController.cs",
               "RelativeDocumentMoniker": "DA.WebAPI\\Controllers\\Auth\\AdminController.cs",
@@ -594,19 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Abstracts\\IUserService.cs",
-              "RelativeDocumentMoniker": "Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Abstracts\\IUserService.cs",
-              "ToolTip": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Abstracts\\IUserService.cs",
-              "RelativeToolTip": "Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Abstracts\\IUserService.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAewA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T00:57:51.238Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\DA.WebAPI\\Controllers\\Auth\\CustomerController.cs",
               "RelativeDocumentMoniker": "DA.WebAPI\\Controllers\\Auth\\CustomerController.cs",
@@ -618,7 +623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "ICustomerService.cs",
               "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Abstracts\\ICustomerService.cs",
               "RelativeDocumentMoniker": "Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Abstracts\\ICustomerService.cs",
@@ -630,7 +635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "PageResultDto.cs",
               "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Dtos\\PageResultDto.cs",
               "RelativeDocumentMoniker": "Services\\Shared\\DA.Shared.Dtos\\PageResultDto.cs",
@@ -642,7 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "FilterDto.cs",
               "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Dtos\\FilterDto.cs",
               "RelativeDocumentMoniker": "Services\\Shared\\DA.Shared.Dtos\\FilterDto.cs",
@@ -651,18 +656,6 @@
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T15:30:10.01Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Implements\\UserService.cs",
-              "RelativeDocumentMoniker": "Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Implements\\UserService.cs",
-              "ToolTip": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Implements\\UserService.cs",
-              "RelativeToolTip": "Services\\Auth\\DA.Auth.ApplicationService\\UserModule\\Implements\\UserService.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAEwBkAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T15:24:20.14Z"
             },
             {
               "$type": "Document",

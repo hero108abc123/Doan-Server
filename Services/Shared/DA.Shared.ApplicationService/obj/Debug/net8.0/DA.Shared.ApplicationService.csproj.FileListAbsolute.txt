@@ -20,3 +20,15 @@ E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.ApplicationService\obj\
 E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\refint\DA.Shared.ApplicationService.dll
 E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\DA.Shared.ApplicationService.pdb
 E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\ref\DA.Shared.ApplicationService.dll
+D:\C#\Doan\Services\Shared\DA.Shared.ApplicationService\bin\Debug\net8.0\DA.Shared.ApplicationService.deps.json
+D:\C#\Doan\Services\Shared\DA.Shared.ApplicationService\bin\Debug\net8.0\DA.Shared.ApplicationService.dll
+D:\C#\Doan\Services\Shared\DA.Shared.ApplicationService\bin\Debug\net8.0\DA.Shared.ApplicationService.pdb
+D:\C#\Doan\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\DA.Shared.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Doan\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\DA.Shared.ApplicationService.AssemblyInfoInputs.cache
+D:\C#\Doan\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\DA.Shared.ApplicationService.AssemblyInfo.cs
+D:\C#\Doan\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\DA.Shared.ApplicationService.csproj.CoreCompileInputs.cache
+D:\C#\Doan\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\DA.Shared.ApplicationService.sourcelink.json
+D:\C#\Doan\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\DA.Shared.ApplicationService.dll
+D:\C#\Doan\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\refint\DA.Shared.ApplicationService.dll
+D:\C#\Doan\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\DA.Shared.ApplicationService.pdb
+D:\C#\Doan\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\ref\DA.Shared.ApplicationService.dll

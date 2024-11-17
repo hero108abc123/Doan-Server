@@ -17,3 +17,23 @@ E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Infrastructure\obj\De
 E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Infrastructure\obj\Debug\net8.0\DA.Vehicle.Infrastructure.pdb
 E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Infrastructure\obj\Debug\net8.0\DA.Vehicle.Infrastructure.genruntimeconfig.cache
 E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Infrastructure\obj\Debug\net8.0\ref\DA.Vehicle.Infrastructure.dll
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Infrastructure\bin\Debug\net8.0\DA.Vehicle.Infrastructure.deps.json
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Infrastructure\bin\Debug\net8.0\DA.Vehicle.Infrastructure.runtimeconfig.json
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Infrastructure\bin\Debug\net8.0\DA.Vehicle.Infrastructure.dll
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Infrastructure\bin\Debug\net8.0\DA.Vehicle.Infrastructure.pdb
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Infrastructure\bin\Debug\net8.0\DA.Shared.Constant.dll
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Infrastructure\bin\Debug\net8.0\DA.Vehicle.Domain.dll
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Infrastructure\bin\Debug\net8.0\DA.Vehicle.Domain.pdb
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Infrastructure\bin\Debug\net8.0\DA.Shared.Constant.pdb
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Infrastructure\obj\Debug\net8.0\DA.Vehicle.Infrastructure.csproj.AssemblyReference.cache
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Infrastructure\obj\Debug\net8.0\DA.Vehicle.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Infrastructure\obj\Debug\net8.0\DA.Vehicle.Infrastructure.AssemblyInfoInputs.cache
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Infrastructure\obj\Debug\net8.0\DA.Vehicle.Infrastructure.AssemblyInfo.cs
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Infrastructure\obj\Debug\net8.0\DA.Vehicle.Infrastructure.csproj.CoreCompileInputs.cache
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Infrastructure\obj\Debug\net8.0\DA.Vehicle.Infrastructure.sourcelink.json
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Infrastructure\obj\Debug\net8.0\DA.Vehic.FFCB15D2.Up2Date
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Infrastructure\obj\Debug\net8.0\DA.Vehicle.Infrastructure.dll
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Infrastructure\obj\Debug\net8.0\refint\DA.Vehicle.Infrastructure.dll
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Infrastructure\obj\Debug\net8.0\DA.Vehicle.Infrastructure.pdb
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Infrastructure\obj\Debug\net8.0\DA.Vehicle.Infrastructure.genruntimeconfig.cache
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Infrastructure\obj\Debug\net8.0\ref\DA.Vehicle.Infrastructure.dll

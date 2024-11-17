@@ -20,3 +20,15 @@ E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Constant\obj\Debug\net8
 E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\refint\DA.Shared.Constant.dll
 E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\DA.Shared.Constant.pdb
 E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\ref\DA.Shared.Constant.dll
+D:\C#\Doan\Services\Shared\DA.Shared.Constant\bin\Debug\net8.0\DA.Shared.Constant.deps.json
+D:\C#\Doan\Services\Shared\DA.Shared.Constant\bin\Debug\net8.0\DA.Shared.Constant.dll
+D:\C#\Doan\Services\Shared\DA.Shared.Constant\bin\Debug\net8.0\DA.Shared.Constant.pdb
+D:\C#\Doan\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\DA.Shared.Constant.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Doan\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\DA.Shared.Constant.AssemblyInfoInputs.cache
+D:\C#\Doan\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\DA.Shared.Constant.AssemblyInfo.cs
+D:\C#\Doan\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\DA.Shared.Constant.csproj.CoreCompileInputs.cache
+D:\C#\Doan\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\DA.Shared.Constant.sourcelink.json
+D:\C#\Doan\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\DA.Shared.Constant.dll
+D:\C#\Doan\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\refint\DA.Shared.Constant.dll
+D:\C#\Doan\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\DA.Shared.Constant.pdb
+D:\C#\Doan\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\ref\DA.Shared.Constant.dll

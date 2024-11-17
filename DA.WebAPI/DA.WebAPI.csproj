@@ -25,8 +25,4 @@
     <ProjectReference Include="..\Services\Vehicle\DA.Vehicle.Dtos\DA.Vehicle.Dtos.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Controllers\Vehicle\" />
-  </ItemGroup>
-
 </Project>

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DA.Vehicle.Dtos.SeatModule
 {
-    internal class CreateSeatDto
+    public class CreateSeatDto
     {
         private string _position;
 
@@ -18,6 +18,7 @@ namespace DA.Vehicle.Dtos.SeatModule
             get => _position;
             set => _position = value?.Trim();
         }
-        public int IsAvailable { get; set; }
+
+        public int BusId { get; set; }
     }
 }

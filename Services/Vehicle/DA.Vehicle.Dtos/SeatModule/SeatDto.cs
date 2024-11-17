@@ -11,5 +11,7 @@ namespace DA.Vehicle.Dtos.SeatModule
         public int Id { get; set; }
         public string Position { get; set; }
         public int IsAvailable { get; set; }
+
+        public int BusId { get; set; }
     }
 }

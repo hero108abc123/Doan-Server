@@ -54,3 +54,33 @@ E:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.ApplicationService\obj\Debu
 E:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.ApplicationService\obj\Debug\net8.0\ref\DA.Auth.ApplicationService.dll
 E:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.ApplicationService\bin\Debug\net8.0\DA.Shared.Dtos.dll
 E:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.ApplicationService\bin\Debug\net8.0\DA.Shared.Dtos.pdb
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\bin\Debug\net8.0\DA.Auth.ApplicationService.deps.json
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\bin\Debug\net8.0\DA.Auth.ApplicationService.dll
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\bin\Debug\net8.0\DA.Auth.ApplicationService.pdb
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\bin\Debug\net8.0\DA.Auth.Domain.dll
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\bin\Debug\net8.0\DA.Auth.Dtos.dll
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\bin\Debug\net8.0\DA.Auth.Infrastructure.dll
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\bin\Debug\net8.0\DA.Shared.ApplicationService.dll
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\bin\Debug\net8.0\DA.Shared.Constant.dll
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\bin\Debug\net8.0\DA.Shared.Dtos.dll
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\bin\Debug\net8.0\DA.Shared.Exceptions.dll
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\bin\Debug\net8.0\DA.Shared.Untils.dll
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\bin\Debug\net8.0\DA.Shared.ApplicationService.pdb
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\bin\Debug\net8.0\DA.Shared.Constant.pdb
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\bin\Debug\net8.0\DA.Shared.Dtos.pdb
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\bin\Debug\net8.0\DA.Shared.Untils.pdb
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\bin\Debug\net8.0\DA.Auth.Dtos.pdb
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\bin\Debug\net8.0\DA.Auth.Infrastructure.pdb
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\bin\Debug\net8.0\DA.Auth.Domain.pdb
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\bin\Debug\net8.0\DA.Shared.Exceptions.pdb
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\obj\Debug\net8.0\DA.Auth.ApplicationService.csproj.AssemblyReference.cache
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\obj\Debug\net8.0\DA.Auth.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\obj\Debug\net8.0\DA.Auth.ApplicationService.AssemblyInfoInputs.cache
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\obj\Debug\net8.0\DA.Auth.ApplicationService.AssemblyInfo.cs
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\obj\Debug\net8.0\DA.Auth.ApplicationService.csproj.CoreCompileInputs.cache
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\obj\Debug\net8.0\DA.Auth.ApplicationService.sourcelink.json
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\obj\Debug\net8.0\DA.Auth..652725D3.Up2Date
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\obj\Debug\net8.0\DA.Auth.ApplicationService.dll
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\obj\Debug\net8.0\refint\DA.Auth.ApplicationService.dll
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\obj\Debug\net8.0\DA.Auth.ApplicationService.pdb
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\obj\Debug\net8.0\ref\DA.Auth.ApplicationService.dll

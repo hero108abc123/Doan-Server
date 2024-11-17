@@ -36,3 +36,23 @@ E:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Infrastructure\obj\Debug\ne
 E:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Infrastructure\obj\Debug\net8.0\DA.Auth.Infrastructure.pdb
 E:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Infrastructure\obj\Debug\net8.0\DA.Auth.Infrastructure.genruntimeconfig.cache
 E:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Infrastructure\obj\Debug\net8.0\ref\DA.Auth.Infrastructure.dll
+D:\C#\Doan\Services\Auth\DA.Auth.Infrastructure\bin\Debug\net8.0\DA.Auth.Infrastructure.deps.json
+D:\C#\Doan\Services\Auth\DA.Auth.Infrastructure\bin\Debug\net8.0\DA.Auth.Infrastructure.runtimeconfig.json
+D:\C#\Doan\Services\Auth\DA.Auth.Infrastructure\bin\Debug\net8.0\DA.Auth.Infrastructure.dll
+D:\C#\Doan\Services\Auth\DA.Auth.Infrastructure\bin\Debug\net8.0\DA.Auth.Infrastructure.pdb
+D:\C#\Doan\Services\Auth\DA.Auth.Infrastructure\bin\Debug\net8.0\DA.Auth.Domain.dll
+D:\C#\Doan\Services\Auth\DA.Auth.Infrastructure\bin\Debug\net8.0\DA.Shared.Constant.dll
+D:\C#\Doan\Services\Auth\DA.Auth.Infrastructure\bin\Debug\net8.0\DA.Auth.Domain.pdb
+D:\C#\Doan\Services\Auth\DA.Auth.Infrastructure\bin\Debug\net8.0\DA.Shared.Constant.pdb
+D:\C#\Doan\Services\Auth\DA.Auth.Infrastructure\obj\Debug\net8.0\DA.Auth.Infrastructure.csproj.AssemblyReference.cache
+D:\C#\Doan\Services\Auth\DA.Auth.Infrastructure\obj\Debug\net8.0\DA.Auth.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Doan\Services\Auth\DA.Auth.Infrastructure\obj\Debug\net8.0\DA.Auth.Infrastructure.AssemblyInfoInputs.cache
+D:\C#\Doan\Services\Auth\DA.Auth.Infrastructure\obj\Debug\net8.0\DA.Auth.Infrastructure.AssemblyInfo.cs
+D:\C#\Doan\Services\Auth\DA.Auth.Infrastructure\obj\Debug\net8.0\DA.Auth.Infrastructure.csproj.CoreCompileInputs.cache
+D:\C#\Doan\Services\Auth\DA.Auth.Infrastructure\obj\Debug\net8.0\DA.Auth.Infrastructure.sourcelink.json
+D:\C#\Doan\Services\Auth\DA.Auth.Infrastructure\obj\Debug\net8.0\DA.Auth..1F752BA6.Up2Date
+D:\C#\Doan\Services\Auth\DA.Auth.Infrastructure\obj\Debug\net8.0\DA.Auth.Infrastructure.dll
+D:\C#\Doan\Services\Auth\DA.Auth.Infrastructure\obj\Debug\net8.0\refint\DA.Auth.Infrastructure.dll
+D:\C#\Doan\Services\Auth\DA.Auth.Infrastructure\obj\Debug\net8.0\DA.Auth.Infrastructure.pdb
+D:\C#\Doan\Services\Auth\DA.Auth.Infrastructure\obj\Debug\net8.0\DA.Auth.Infrastructure.genruntimeconfig.cache
+D:\C#\Doan\Services\Auth\DA.Auth.Infrastructure\obj\Debug\net8.0\ref\DA.Auth.Infrastructure.dll

@@ -9,3 +9,15 @@ E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Dtos\obj\Debug\net8.0
 E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Dtos\obj\Debug\net8.0\refint\DA.Vehicle.Dtos.dll
 E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Dtos\obj\Debug\net8.0\DA.Vehicle.Dtos.pdb
 E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Dtos\obj\Debug\net8.0\ref\DA.Vehicle.Dtos.dll
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Dtos\bin\Debug\net8.0\DA.Vehicle.Dtos.deps.json
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Dtos\bin\Debug\net8.0\DA.Vehicle.Dtos.dll
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Dtos\bin\Debug\net8.0\DA.Vehicle.Dtos.pdb
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Dtos\obj\Debug\net8.0\DA.Vehicle.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Dtos\obj\Debug\net8.0\DA.Vehicle.Dtos.AssemblyInfoInputs.cache
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Dtos\obj\Debug\net8.0\DA.Vehicle.Dtos.AssemblyInfo.cs
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Dtos\obj\Debug\net8.0\DA.Vehicle.Dtos.csproj.CoreCompileInputs.cache
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Dtos\obj\Debug\net8.0\DA.Vehicle.Dtos.sourcelink.json
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Dtos\obj\Debug\net8.0\DA.Vehicle.Dtos.dll
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Dtos\obj\Debug\net8.0\refint\DA.Vehicle.Dtos.dll
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Dtos\obj\Debug\net8.0\DA.Vehicle.Dtos.pdb
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.Dtos\obj\Debug\net8.0\ref\DA.Vehicle.Dtos.dll

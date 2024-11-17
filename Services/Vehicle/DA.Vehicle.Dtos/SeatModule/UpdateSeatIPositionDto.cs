@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DA.Vehicle.Dtos.SeatModule
 {
-    internal class UpdateSeatInfoDto
+    public class UpdateSeatIPositionDto
     {
         public int Id { get; set; }
         private string _position;

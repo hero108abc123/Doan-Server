@@ -20,3 +20,15 @@ E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Exceptions\obj\Debug\ne
 E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Exceptions\obj\Debug\net8.0\refint\DA.Shared.Exceptions.dll
 E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Exceptions\obj\Debug\net8.0\DA.Shared.Exceptions.pdb
 E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Exceptions\obj\Debug\net8.0\ref\DA.Shared.Exceptions.dll
+D:\C#\Doan\Services\Shared\DA.Shared.Exceptions\bin\Debug\net8.0\DA.Shared.Exceptions.deps.json
+D:\C#\Doan\Services\Shared\DA.Shared.Exceptions\bin\Debug\net8.0\DA.Shared.Exceptions.dll
+D:\C#\Doan\Services\Shared\DA.Shared.Exceptions\bin\Debug\net8.0\DA.Shared.Exceptions.pdb
+D:\C#\Doan\Services\Shared\DA.Shared.Exceptions\obj\Debug\net8.0\DA.Shared.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Doan\Services\Shared\DA.Shared.Exceptions\obj\Debug\net8.0\DA.Shared.Exceptions.AssemblyInfoInputs.cache
+D:\C#\Doan\Services\Shared\DA.Shared.Exceptions\obj\Debug\net8.0\DA.Shared.Exceptions.AssemblyInfo.cs
+D:\C#\Doan\Services\Shared\DA.Shared.Exceptions\obj\Debug\net8.0\DA.Shared.Exceptions.csproj.CoreCompileInputs.cache
+D:\C#\Doan\Services\Shared\DA.Shared.Exceptions\obj\Debug\net8.0\DA.Shared.Exceptions.sourcelink.json
+D:\C#\Doan\Services\Shared\DA.Shared.Exceptions\obj\Debug\net8.0\DA.Shared.Exceptions.dll
+D:\C#\Doan\Services\Shared\DA.Shared.Exceptions\obj\Debug\net8.0\refint\DA.Shared.Exceptions.dll
+D:\C#\Doan\Services\Shared\DA.Shared.Exceptions\obj\Debug\net8.0\DA.Shared.Exceptions.pdb
+D:\C#\Doan\Services\Shared\DA.Shared.Exceptions\obj\Debug\net8.0\ref\DA.Shared.Exceptions.dll

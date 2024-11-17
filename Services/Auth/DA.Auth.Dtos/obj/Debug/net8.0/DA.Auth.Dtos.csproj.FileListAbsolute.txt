@@ -20,3 +20,15 @@ E:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\DA.Au
 E:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\refint\DA.Auth.Dtos.dll
 E:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\DA.Auth.Dtos.pdb
 E:\STUDY\Do an\Sever\DA.WebAPI\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\ref\DA.Auth.Dtos.dll
+D:\C#\Doan\Services\Auth\DA.Auth.Dtos\bin\Debug\net8.0\DA.Auth.Dtos.deps.json
+D:\C#\Doan\Services\Auth\DA.Auth.Dtos\bin\Debug\net8.0\DA.Auth.Dtos.dll
+D:\C#\Doan\Services\Auth\DA.Auth.Dtos\bin\Debug\net8.0\DA.Auth.Dtos.pdb
+D:\C#\Doan\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\DA.Auth.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Doan\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\DA.Auth.Dtos.AssemblyInfoInputs.cache
+D:\C#\Doan\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\DA.Auth.Dtos.AssemblyInfo.cs
+D:\C#\Doan\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\DA.Auth.Dtos.csproj.CoreCompileInputs.cache
+D:\C#\Doan\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\DA.Auth.Dtos.sourcelink.json
+D:\C#\Doan\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\DA.Auth.Dtos.dll
+D:\C#\Doan\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\refint\DA.Auth.Dtos.dll
+D:\C#\Doan\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\DA.Auth.Dtos.pdb
+D:\C#\Doan\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\ref\DA.Auth.Dtos.dll

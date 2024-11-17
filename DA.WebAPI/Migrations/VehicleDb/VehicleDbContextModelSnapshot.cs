@@ -55,12 +55,12 @@ namespace DA.WebAPI.Migrations.VehicleDb
                     b.Property<int>("BusId")
                         .HasColumnType("int");
 
+                    b.Property<int>("IsAvailable")
+                        .HasColumnType("int");
+
                     b.Property<string>("Position")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("isAvailable")
-                        .HasColumnType("int");
 
                     b.HasKey("Id");
 
