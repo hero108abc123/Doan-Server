@@ -1,0 +1,15 @@
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Domain\bin\Debug\net8.0\DA.Vehicle.Domain.deps.json
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Domain\bin\Debug\net8.0\DA.Vehicle.Domain.dll
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Domain\bin\Debug\net8.0\DA.Vehicle.Domain.pdb
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Domain\bin\Debug\net8.0\DA.Shared.Constant.dll
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Domain\bin\Debug\net8.0\DA.Shared.Constant.pdb
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Domain\obj\Debug\net8.0\DA.Vehicle.Domain.csproj.AssemblyReference.cache
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Domain\obj\Debug\net8.0\DA.Vehicle.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Domain\obj\Debug\net8.0\DA.Vehicle.Domain.AssemblyInfoInputs.cache
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Domain\obj\Debug\net8.0\DA.Vehicle.Domain.AssemblyInfo.cs
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Domain\obj\Debug\net8.0\DA.Vehicle.Domain.csproj.CoreCompileInputs.cache
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Domain\obj\Debug\net8.0\DA.Vehic.A888918F.Up2Date
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Domain\obj\Debug\net8.0\DA.Vehicle.Domain.dll
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Domain\obj\Debug\net8.0\refint\DA.Vehicle.Domain.dll
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Domain\obj\Debug\net8.0\DA.Vehicle.Domain.pdb
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Domain\obj\Debug\net8.0\ref\DA.Vehicle.Domain.dll

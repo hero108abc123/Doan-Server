@@ -9,6 +9,7 @@
   <ItemGroup>
     <ProjectReference Include="..\..\Shared\DA.Shared.ApplicationService\DA.Shared.ApplicationService.csproj" />
     <ProjectReference Include="..\..\Shared\DA.Shared.Constant\DA.Shared.Constant.csproj" />
+    <ProjectReference Include="..\..\Shared\DA.Shared.Dtos\DA.Shared.Dtos.csproj" />
     <ProjectReference Include="..\..\Shared\DA.Shared.Untils\DA.Shared.Untils.csproj" />
     <ProjectReference Include="..\DA.Auth.Dtos\DA.Auth.Dtos.csproj" />
     <ProjectReference Include="..\DA.Auth.Infrastructure\DA.Auth.Infrastructure.csproj" />

@@ -40,6 +40,7 @@ namespace DA.Auth.ApplicationService.Startup
 
             builder.Services.AddScoped<IUserService, UserService>();
             builder.Services.AddScoped<ICustomerService, CustomerService>();
+            builder.Services.AddScoped<IAdminService, AdminService>();
         }
     }
 }

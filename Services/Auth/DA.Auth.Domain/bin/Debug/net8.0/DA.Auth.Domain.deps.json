@@ -16,7 +16,10 @@
       },
       "DA.Shared.Constant/1.0.0": {
         "runtime": {
-          "DA.Shared.Constant.dll": {}
+          "DA.Shared.Constant.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

@@ -9,3 +9,14 @@ D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Exceptions\obj\Debug\ne
 D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Exceptions\obj\Debug\net8.0\refint\DA.Shared.Exceptions.dll
 D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Exceptions\obj\Debug\net8.0\DA.Shared.Exceptions.pdb
 D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Exceptions\obj\Debug\net8.0\ref\DA.Shared.Exceptions.dll
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Exceptions\bin\Debug\net8.0\DA.Shared.Exceptions.deps.json
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Exceptions\bin\Debug\net8.0\DA.Shared.Exceptions.dll
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Exceptions\bin\Debug\net8.0\DA.Shared.Exceptions.pdb
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Exceptions\obj\Debug\net8.0\DA.Shared.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Exceptions\obj\Debug\net8.0\DA.Shared.Exceptions.AssemblyInfoInputs.cache
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Exceptions\obj\Debug\net8.0\DA.Shared.Exceptions.AssemblyInfo.cs
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Exceptions\obj\Debug\net8.0\DA.Shared.Exceptions.csproj.CoreCompileInputs.cache
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Exceptions\obj\Debug\net8.0\DA.Shared.Exceptions.dll
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Exceptions\obj\Debug\net8.0\refint\DA.Shared.Exceptions.dll
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Exceptions\obj\Debug\net8.0\DA.Shared.Exceptions.pdb
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Exceptions\obj\Debug\net8.0\ref\DA.Shared.Exceptions.dll

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\DA.WebAPI\\DA.WebAPI.csproj": {}
+    "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\DA.WebAPI\\DA.WebAPI.csproj": {}
   },
   "projects": {
-    "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\DA.WebAPI\\DA.WebAPI.csproj": {
+    "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\DA.WebAPI\\DA.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\DA.WebAPI\\DA.WebAPI.csproj",
+        "projectUniqueName": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\DA.WebAPI\\DA.WebAPI.csproj",
         "projectName": "DA.WebAPI",
-        "projectPath": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\DA.WebAPI\\DA.WebAPI.csproj",
-        "packagesPath": "C:\\Users\\EZ\\.nuget\\packages\\",
-        "outputPath": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\DA.WebAPI\\obj\\",
+        "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\DA.WebAPI\\DA.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\DA.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\EZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,21 +26,32 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj": {
-                "projectPath": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj"
+              "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj": {
+                "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj"
               },
-              "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj": {
-                "projectPath": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj"
+              "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj": {
+                "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj"
               },
-              "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj": {
-                "projectPath": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj"
+              "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj": {
+                "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj"
+              },
+              "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj": {
+                "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj"
+              },
+              "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj": {
+                "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj"
+              },
+              "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj": {
+                "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj"
+              },
+              "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj": {
+                "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj"
               }
             }
           }
@@ -90,21 +105,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj": {
+    "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj",
+        "projectUniqueName": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj",
         "projectName": "DA.Auth.ApplicationService",
-        "projectPath": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj",
-        "packagesPath": "C:\\Users\\EZ\\.nuget\\packages\\",
-        "outputPath": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\obj\\",
+        "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.ApplicationService\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\EZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -112,27 +131,29 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj": {
-                "projectPath": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj"
+              "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj": {
+                "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj"
               },
-              "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Infrastructure\\DA.Auth.Infrastructure.csproj": {
-                "projectPath": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Infrastructure\\DA.Auth.Infrastructure.csproj"
+              "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Infrastructure\\DA.Auth.Infrastructure.csproj": {
+                "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Infrastructure\\DA.Auth.Infrastructure.csproj"
               },
-              "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj": {
-                "projectPath": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj"
+              "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj": {
+                "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj"
               },
-              "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj": {
-                "projectPath": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj"
+              "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj": {
+                "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj"
               },
-              "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Untils\\DA.Shared.Untils.csproj": {
-                "projectPath": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Untils\\DA.Shared.Untils.csproj"
+              "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Dtos\\DA.Shared.Dtos.csproj": {
+                "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Dtos\\DA.Shared.Dtos.csproj"
+              },
+              "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Untils\\DA.Shared.Untils.csproj": {
+                "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Untils\\DA.Shared.Untils.csproj"
               }
             }
           }
@@ -170,21 +191,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj": {
+    "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj",
+        "projectUniqueName": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj",
         "projectName": "DA.Auth.Domain",
-        "projectPath": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj",
-        "packagesPath": "C:\\Users\\EZ\\.nuget\\packages\\",
-        "outputPath": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Domain\\obj\\",
+        "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\EZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -192,15 +217,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj": {
-                "projectPath": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj"
+              "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj": {
+                "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj"
               }
             }
           }
@@ -235,21 +259,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj": {
+    "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj",
+        "projectUniqueName": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj",
         "projectName": "DA.Auth.Dtos",
-        "projectPath": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj",
-        "packagesPath": "C:\\Users\\EZ\\.nuget\\packages\\",
-        "outputPath": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Dtos\\obj\\",
+        "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Dtos\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\EZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -257,7 +285,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -296,21 +323,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Infrastructure\\DA.Auth.Infrastructure.csproj": {
+    "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Infrastructure\\DA.Auth.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Infrastructure\\DA.Auth.Infrastructure.csproj",
+        "projectUniqueName": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Infrastructure\\DA.Auth.Infrastructure.csproj",
         "projectName": "DA.Auth.Infrastructure",
-        "projectPath": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Infrastructure\\DA.Auth.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\EZ\\.nuget\\packages\\",
-        "outputPath": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Infrastructure\\obj\\",
+        "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Infrastructure\\DA.Auth.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\EZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -318,15 +349,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj": {
-                "projectPath": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj"
+              "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj": {
+                "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj"
               }
             }
           }
@@ -377,21 +407,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj": {
+    "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj",
+        "projectUniqueName": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj",
         "projectName": "DA.Shared.ApplicationService",
-        "projectPath": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj",
-        "packagesPath": "C:\\Users\\EZ\\.nuget\\packages\\",
-        "outputPath": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.ApplicationService\\obj\\",
+        "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.ApplicationService\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\EZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -399,7 +433,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -438,21 +471,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj": {
+    "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj",
+        "projectUniqueName": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj",
         "projectName": "DA.Shared.Constant",
-        "projectPath": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj",
-        "packagesPath": "C:\\Users\\EZ\\.nuget\\packages\\",
-        "outputPath": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Constant\\obj\\",
+        "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Constant\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\EZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -460,7 +497,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -499,21 +535,95 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Exceptions\\DA.Shared.Exceptions.csproj": {
+    "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Dtos\\DA.Shared.Dtos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Exceptions\\DA.Shared.Exceptions.csproj",
+        "projectUniqueName": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Dtos\\DA.Shared.Dtos.csproj",
+        "projectName": "DA.Shared.Dtos",
+        "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Dtos\\DA.Shared.Dtos.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Dtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Exceptions\\DA.Shared.Exceptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Exceptions\\DA.Shared.Exceptions.csproj",
         "projectName": "DA.Shared.Exceptions",
-        "projectPath": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Exceptions\\DA.Shared.Exceptions.csproj",
-        "packagesPath": "C:\\Users\\EZ\\.nuget\\packages\\",
-        "outputPath": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Exceptions\\obj\\",
+        "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Exceptions\\DA.Shared.Exceptions.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Exceptions\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\EZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -521,7 +631,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -560,21 +669,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Untils\\DA.Shared.Untils.csproj": {
+    "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Untils\\DA.Shared.Untils.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Untils\\DA.Shared.Untils.csproj",
+        "projectUniqueName": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Untils\\DA.Shared.Untils.csproj",
         "projectName": "DA.Shared.Untils",
-        "projectPath": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Untils\\DA.Shared.Untils.csproj",
-        "packagesPath": "C:\\Users\\EZ\\.nuget\\packages\\",
-        "outputPath": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Untils\\obj\\",
+        "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Untils\\DA.Shared.Untils.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Untils\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\EZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -582,15 +695,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Exceptions\\DA.Shared.Exceptions.csproj": {
-                "projectPath": "D:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Exceptions\\DA.Shared.Exceptions.csproj"
+              "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Exceptions\\DA.Shared.Exceptions.csproj": {
+                "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Exceptions\\DA.Shared.Exceptions.csproj"
               }
             }
           }
@@ -631,7 +743,312 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj",
+        "projectName": "DA.Vehicle.ApplicationService",
+        "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj": {
+                "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj"
+              },
+              "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj": {
+                "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj"
+              },
+              "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Dtos\\DA.Shared.Dtos.csproj": {
+                "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Dtos\\DA.Shared.Dtos.csproj"
+              },
+              "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Exceptions\\DA.Shared.Exceptions.csproj": {
+                "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Exceptions\\DA.Shared.Exceptions.csproj"
+              },
+              "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Untils\\DA.Shared.Untils.csproj": {
+                "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Untils\\DA.Shared.Untils.csproj"
+              },
+              "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj": {
+                "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj"
+              },
+              "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Infrastructure\\DA.Vehicle.Infrastructure.csproj": {
+                "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Infrastructure\\DA.Vehicle.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj",
+        "projectName": "DA.Vehicle.Domain",
+        "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj": {
+                "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj",
+        "projectName": "DA.Vehicle.Dtos",
+        "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Dtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Infrastructure\\DA.Vehicle.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Infrastructure\\DA.Vehicle.Infrastructure.csproj",
+        "projectName": "DA.Vehicle.Infrastructure",
+        "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Infrastructure\\DA.Vehicle.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj": {
+                "projectPath": "E:\\STUDY\\Do an\\Sever\\DA.WebAPI\\Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

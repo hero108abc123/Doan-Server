@@ -15,10 +15,8 @@ namespace DA.WebAPI.Filters
 
         public void OnAuthorization(AuthorizationFilterContext context)
         {
-            //
             var user = context.HttpContext.User;
             var claims = user.Claims.ToList();
-            //if else
             var userTypeClaim = claims.FirstOrDefault(c => c.Type == CustomClaimTypes.UserType);
             if (userTypeClaim != null)
             {

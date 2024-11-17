@@ -1,4 +1,5 @@
 using DA.Auth.ApplicationService.Startup;
+using DA.Vehicle.ApplicationService.Startup;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
@@ -72,7 +73,8 @@ builder.Services.AddSwaggerGen(c =>
     );
 });
 
-builder.ConfigureAuth(typeof(Program).Namespace);
+builder.ConfigureAuth("DA.WebAPI");
+builder.ConfigureVehicle("DA.WebAPI");
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

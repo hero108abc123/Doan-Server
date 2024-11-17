@@ -917,12 +917,18 @@
           "DA.Shared.Constant": "1.0.0"
         },
         "runtime": {
-          "DA.Auth.Domain.dll": {}
+          "DA.Auth.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "DA.Shared.Constant/1.0.0": {
         "runtime": {
-          "DA.Shared.Constant.dll": {}
+          "DA.Shared.Constant.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

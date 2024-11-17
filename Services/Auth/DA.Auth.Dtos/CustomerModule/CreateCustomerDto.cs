@@ -12,7 +12,7 @@ namespace DA.Auth.Dtos.CustomerModule
         private string _fullName;
 
         [Required]
-        [StringLength(30, ErrorMessage = "Fullname must be between 3 and 30 characters long.", MinimumLength = 3)]
+        [StringLength(30, ErrorMessage = "Fullname phải có độ dài từ 3 đến 30 ký tự.", MinimumLength = 3)]
         public string FullName
         {
             get => _fullName;
@@ -20,7 +20,7 @@ namespace DA.Auth.Dtos.CustomerModule
         }
 
         [Required]
-        [RegularExpression(@"^(0|\+84)(3[2-9]|5[6|8|9]|7[0|6|7|8|9]|8[1-5]|9[0-9])[0-9]{7}$", ErrorMessage = "Invalid Phone Number.")]
+        [RegularExpression(@"^(0|\+84)(3[2-9]|5[6|8|9]|7[0|6|7|8|9]|8[1-5]|9[0-9])[0-9]{7}$", ErrorMessage = "Sai định dạng số điện thoại.")]
         public string PhoneNumber { get; set; }
     }
 }

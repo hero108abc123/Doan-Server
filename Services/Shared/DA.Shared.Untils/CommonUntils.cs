@@ -12,14 +12,6 @@ namespace DA.Shared.Untils
 {
     public static class CommonUntils
     {
-        public static string CreateMD5(string input)
-        {
-            MD5 md5 = MD5.Create();
-            byte[] inputBytes = Encoding.ASCII.GetBytes(input);
-            byte[] hashBytes = md5.ComputeHash(inputBytes);
-            return Convert.ToHexString(hashBytes);
-        }
-
         public static int GetCurrentUserId(IHttpContextAccessor httpContextAccessor)
         {
             var claims = httpContextAccessor.HttpContext?.User?.Identity as ClaimsIdentity;

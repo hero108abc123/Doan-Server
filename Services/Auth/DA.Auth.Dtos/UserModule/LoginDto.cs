@@ -12,8 +12,8 @@ namespace DA.Auth.Dtos.UserModule
         private string _email;
 
         [Required]
-        [StringLength(30, ErrorMessage = "Email must be between 3 and 30 characters long.", MinimumLength = 3)]
-        [RegularExpression(@"^[a-zA-Z0-9._%+-]+@(?:[a-zA-Z0-9-]+\.)+[a-zA-Z]{2,}$", ErrorMessage = "Invalid Email.")]
+        [StringLength(30, ErrorMessage = "Email phải có độ dài từ 3 đến 30 ký tự.", MinimumLength = 3)]
+        [RegularExpression(@"^[a-zA-Z0-9._%+-]+@(?:[a-zA-Z0-9-]+\.)+[a-zA-Z]{2,}$", ErrorMessage = "Sai định dạng Email.")]
         public string Email
         {
             get => _email;
@@ -23,7 +23,7 @@ namespace DA.Auth.Dtos.UserModule
         private string _password;
 
         [Required]
-        [StringLength(30, ErrorMessage = "Password must be between 3 and 30 characters long.", MinimumLength = 3)]
+        [StringLength(30, ErrorMessage = "Password phải có độ dài từ 3 đến 30 ký tự.", MinimumLength = 3)]
         public string Password
         {
             get => _password;

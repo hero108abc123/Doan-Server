@@ -3,6 +3,7 @@ using DA.Auth.ApplicationService.UserModule.Abstracts;
 using DA.Auth.Domain;
 using DA.Auth.Dtos.UserModule;
 using DA.Auth.Infrastructure;
+using DA.Shared.Constant.Permission;
 using DA.Shared.Exceptions;
 using DA.Shared.Untils;
 using Microsoft.AspNetCore.Identity;
@@ -63,8 +64,9 @@ namespace DA.Auth.ApplicationService.UserModule.Implements
                     new Claim(ClaimTypes.Name, user.Id.ToString()),
                     new Claim("userId", user.Id.ToString()),
                     new Claim("userEmail", user.Email),
+                    new Claim(CustomClaimTypes.UserType, user.UserType.ToString())
                 };
-
+            
                 var token = new JwtSecurityToken(
                     issuer: _configuration["JWT:ValidIssuer"],
                     audience: _configuration["JWT:ValidAudience"],

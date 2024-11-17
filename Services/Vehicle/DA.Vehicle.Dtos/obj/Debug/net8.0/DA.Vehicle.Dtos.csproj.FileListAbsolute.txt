@@ -1,0 +1,11 @@
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Dtos\bin\Debug\net8.0\DA.Vehicle.Dtos.deps.json
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Dtos\bin\Debug\net8.0\DA.Vehicle.Dtos.dll
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Dtos\bin\Debug\net8.0\DA.Vehicle.Dtos.pdb
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Dtos\obj\Debug\net8.0\DA.Vehicle.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Dtos\obj\Debug\net8.0\DA.Vehicle.Dtos.AssemblyInfoInputs.cache
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Dtos\obj\Debug\net8.0\DA.Vehicle.Dtos.AssemblyInfo.cs
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Dtos\obj\Debug\net8.0\DA.Vehicle.Dtos.csproj.CoreCompileInputs.cache
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Dtos\obj\Debug\net8.0\DA.Vehicle.Dtos.dll
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Dtos\obj\Debug\net8.0\refint\DA.Vehicle.Dtos.dll
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Dtos\obj\Debug\net8.0\DA.Vehicle.Dtos.pdb
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Vehicle\DA.Vehicle.Dtos\obj\Debug\net8.0\ref\DA.Vehicle.Dtos.dll

@@ -55,7 +55,10 @@
       "System.Text.Encodings.Web/4.5.0": {},
       "DA.Shared.Exceptions/1.0.0": {
         "runtime": {
-          "DA.Shared.Exceptions.dll": {}
+          "DA.Shared.Exceptions.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

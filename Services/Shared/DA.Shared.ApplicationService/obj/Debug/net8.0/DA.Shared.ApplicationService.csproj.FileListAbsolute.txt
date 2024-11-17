@@ -9,3 +9,14 @@ D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.ApplicationService\obj\
 D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\refint\DA.Shared.ApplicationService.dll
 D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\DA.Shared.ApplicationService.pdb
 D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\ref\DA.Shared.ApplicationService.dll
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.ApplicationService\bin\Debug\net8.0\DA.Shared.ApplicationService.deps.json
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.ApplicationService\bin\Debug\net8.0\DA.Shared.ApplicationService.dll
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.ApplicationService\bin\Debug\net8.0\DA.Shared.ApplicationService.pdb
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\DA.Shared.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\DA.Shared.ApplicationService.AssemblyInfoInputs.cache
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\DA.Shared.ApplicationService.AssemblyInfo.cs
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\DA.Shared.ApplicationService.csproj.CoreCompileInputs.cache
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\DA.Shared.ApplicationService.dll
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\refint\DA.Shared.ApplicationService.dll
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\DA.Shared.ApplicationService.pdb
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\ref\DA.Shared.ApplicationService.dll

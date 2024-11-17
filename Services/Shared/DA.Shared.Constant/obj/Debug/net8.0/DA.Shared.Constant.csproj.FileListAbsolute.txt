@@ -9,3 +9,14 @@ D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Constant\obj\Debug\net8
 D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\refint\DA.Shared.Constant.dll
 D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\DA.Shared.Constant.pdb
 D:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\ref\DA.Shared.Constant.dll
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Constant\bin\Debug\net8.0\DA.Shared.Constant.deps.json
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Constant\bin\Debug\net8.0\DA.Shared.Constant.dll
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Constant\bin\Debug\net8.0\DA.Shared.Constant.pdb
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\DA.Shared.Constant.GeneratedMSBuildEditorConfig.editorconfig
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\DA.Shared.Constant.AssemblyInfoInputs.cache
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\DA.Shared.Constant.AssemblyInfo.cs
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\DA.Shared.Constant.csproj.CoreCompileInputs.cache
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\DA.Shared.Constant.dll
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\refint\DA.Shared.Constant.dll
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\DA.Shared.Constant.pdb
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\ref\DA.Shared.Constant.dll

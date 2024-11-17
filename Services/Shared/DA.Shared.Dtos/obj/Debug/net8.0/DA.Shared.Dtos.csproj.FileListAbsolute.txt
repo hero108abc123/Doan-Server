@@ -1,0 +1,12 @@
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Dtos\bin\Debug\net8.0\DA.Shared.Dtos.deps.json
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Dtos\bin\Debug\net8.0\DA.Shared.Dtos.dll
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Dtos\bin\Debug\net8.0\DA.Shared.Dtos.pdb
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Dtos\obj\Debug\net8.0\DA.Shared.Dtos.csproj.AssemblyReference.cache
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Dtos\obj\Debug\net8.0\DA.Shared.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Dtos\obj\Debug\net8.0\DA.Shared.Dtos.AssemblyInfoInputs.cache
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Dtos\obj\Debug\net8.0\DA.Shared.Dtos.AssemblyInfo.cs
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Dtos\obj\Debug\net8.0\DA.Shared.Dtos.csproj.CoreCompileInputs.cache
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Dtos\obj\Debug\net8.0\DA.Shared.Dtos.dll
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Dtos\obj\Debug\net8.0\refint\DA.Shared.Dtos.dll
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Dtos\obj\Debug\net8.0\DA.Shared.Dtos.pdb
+E:\STUDY\Do an\Sever\DA.WebAPI\Services\Shared\DA.Shared.Dtos\obj\Debug\net8.0\ref\DA.Shared.Dtos.dll
