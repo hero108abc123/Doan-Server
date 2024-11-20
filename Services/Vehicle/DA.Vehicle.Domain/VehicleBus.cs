@@ -19,5 +19,8 @@ namespace DA.Vehicle.Domain
         public decimal Price { get; set; }
         public int TotalSeat { get; set; }
         public ICollection<VehicleSeat> Seats { get; set; } = new List<VehicleSeat>();
+
+        public ICollection<VehicleBusRide> BusRides { get; set; } = new List<VehicleBusRide>();
+
     }
 }

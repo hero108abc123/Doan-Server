@@ -18,15 +18,24 @@ namespace DA.Vehicle.Infrastructure
 
         public DbSet<VehicleSeat> Seats { get; set; }
 
+        public DbSet<VehicleBusRide> BusRides { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
 
             modelBuilder.Entity<VehicleSeat>()
-                .HasOne(vs => vs.VehicleBus)
-                .WithMany(vb => vb.Seats)
-                .HasForeignKey(vs => vs.BusId)
+                .HasOne(vb => vb.VehicleBus)
+                .WithMany(vs => vs.Seats)
+                .HasForeignKey(vb => vb.BusId)
                 .OnDelete(DeleteBehavior.Cascade);
+
+            modelBuilder.Entity<VehicleBusRide>()
+                .HasOne(vb => vb.VehicleBus)
+                .WithMany(vbr => vbr.BusRides)
+                .HasForeignKey(vb => vb.BusId)
+                .OnDelete(DeleteBehavior.Cascade);
+
         }
     }
 }
