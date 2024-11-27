@@ -1,0 +1,158 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "DA.Payment.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DA.Payment.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DA.Payment.Domain.dll": {}
+        }
+      },
+      "DA.Payment.Dtos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DA.Payment.Dtos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DA.Payment.Dtos.dll": {}
+        }
+      },
+      "DA.Payment.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DA.Payment.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DA.Payment.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DA.Payment.Infrastructure.dll": {}
+        }
+      },
+      "DA.Shared.ApplicationService/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DA.Shared.ApplicationService.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DA.Shared.ApplicationService.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DA.Payment.Domain/1.0.0": {
+      "type": "project",
+      "path": "../DA.Payment.Domain/DA.Payment.Domain.csproj",
+      "msbuildProject": "../DA.Payment.Domain/DA.Payment.Domain.csproj"
+    },
+    "DA.Payment.Dtos/1.0.0": {
+      "type": "project",
+      "path": "../DA.Payment.Dtos/DA.Payment.Dtos.csproj",
+      "msbuildProject": "../DA.Payment.Dtos/DA.Payment.Dtos.csproj"
+    },
+    "DA.Payment.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../DA.Payment.Infrastructure/DA.Payment.Infrastructure.csproj",
+      "msbuildProject": "../DA.Payment.Infrastructure/DA.Payment.Infrastructure.csproj"
+    },
+    "DA.Shared.ApplicationService/1.0.0": {
+      "type": "project",
+      "path": "../../Shared/DA.Shared.ApplicationService/DA.Shared.ApplicationService.csproj",
+      "msbuildProject": "../../Shared/DA.Shared.ApplicationService/DA.Shared.ApplicationService.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "DA.Payment.Dtos >= 1.0.0",
+      "DA.Payment.Infrastructure >= 1.0.0",
+      "DA.Shared.ApplicationService >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\PC\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\PC\\source\\repos\\Doan-Server\\Services\\Payment\\DA.Payment.ApplicationService\\DA.Payment.ApplicationService.csproj",
+      "projectName": "DA.Payment.ApplicationService",
+      "projectPath": "C:\\Users\\PC\\source\\repos\\Doan-Server\\Services\\Payment\\DA.Payment.ApplicationService\\DA.Payment.ApplicationService.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PC\\source\\repos\\Doan-Server\\Services\\Payment\\DA.Payment.ApplicationService\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\PC\\source\\repos\\Doan-Server\\Services\\Payment\\DA.Payment.Dtos\\DA.Payment.Dtos.csproj": {
+              "projectPath": "C:\\Users\\PC\\source\\repos\\Doan-Server\\Services\\Payment\\DA.Payment.Dtos\\DA.Payment.Dtos.csproj"
+            },
+            "C:\\Users\\PC\\source\\repos\\Doan-Server\\Services\\Payment\\DA.Payment.Infrastructure\\DA.Payment.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\PC\\source\\repos\\Doan-Server\\Services\\Payment\\DA.Payment.Infrastructure\\DA.Payment.Infrastructure.csproj"
+            },
+            "C:\\Users\\PC\\source\\repos\\Doan-Server\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj": {
+              "projectPath": "C:\\Users\\PC\\source\\repos\\Doan-Server\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

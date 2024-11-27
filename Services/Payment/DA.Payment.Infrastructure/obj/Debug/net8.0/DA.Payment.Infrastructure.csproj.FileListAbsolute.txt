@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\Doan-Server\Services\Payment\DA.Payment.Infrastructure\bin\Debug\net8.0\DA.Payment.Infrastructure.deps.json
+C:\Users\PC\source\repos\Doan-Server\Services\Payment\DA.Payment.Infrastructure\bin\Debug\net8.0\DA.Payment.Infrastructure.dll
+C:\Users\PC\source\repos\Doan-Server\Services\Payment\DA.Payment.Infrastructure\bin\Debug\net8.0\DA.Payment.Infrastructure.pdb
+C:\Users\PC\source\repos\Doan-Server\Services\Payment\DA.Payment.Infrastructure\bin\Debug\net8.0\DA.Payment.Domain.dll
+C:\Users\PC\source\repos\Doan-Server\Services\Payment\DA.Payment.Infrastructure\bin\Debug\net8.0\DA.Payment.Domain.pdb
+C:\Users\PC\source\repos\Doan-Server\Services\Payment\DA.Payment.Infrastructure\obj\Debug\net8.0\DA.Payment.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Doan-Server\Services\Payment\DA.Payment.Infrastructure\obj\Debug\net8.0\DA.Payment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Doan-Server\Services\Payment\DA.Payment.Infrastructure\obj\Debug\net8.0\DA.Payment.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Doan-Server\Services\Payment\DA.Payment.Infrastructure\obj\Debug\net8.0\DA.Payment.Infrastructure.AssemblyInfo.cs
+C:\Users\PC\source\repos\Doan-Server\Services\Payment\DA.Payment.Infrastructure\obj\Debug\net8.0\DA.Payment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Doan-Server\Services\Payment\DA.Payment.Infrastructure\obj\Debug\net8.0\DA.Payment.Infrastructure.sourcelink.json
+C:\Users\PC\source\repos\Doan-Server\Services\Payment\DA.Payment.Infrastructure\obj\Debug\net8.0\DA.Payme.E505C613.Up2Date
+C:\Users\PC\source\repos\Doan-Server\Services\Payment\DA.Payment.Infrastructure\obj\Debug\net8.0\DA.Payment.Infrastructure.dll
+C:\Users\PC\source\repos\Doan-Server\Services\Payment\DA.Payment.Infrastructure\obj\Debug\net8.0\refint\DA.Payment.Infrastructure.dll
+C:\Users\PC\source\repos\Doan-Server\Services\Payment\DA.Payment.Infrastructure\obj\Debug\net8.0\DA.Payment.Infrastructure.pdb
+C:\Users\PC\source\repos\Doan-Server\Services\Payment\DA.Payment.Infrastructure\obj\Debug\net8.0\ref\DA.Payment.Infrastructure.dll

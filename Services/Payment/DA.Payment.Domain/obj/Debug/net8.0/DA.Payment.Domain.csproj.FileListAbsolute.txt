@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\Doan-Server\Services\Payment\DA.Payment.Domain\bin\Debug\net8.0\DA.Payment.Domain.deps.json
+C:\Users\PC\source\repos\Doan-Server\Services\Payment\DA.Payment.Domain\bin\Debug\net8.0\DA.Payment.Domain.dll
+C:\Users\PC\source\repos\Doan-Server\Services\Payment\DA.Payment.Domain\bin\Debug\net8.0\DA.Payment.Domain.pdb
+C:\Users\PC\source\repos\Doan-Server\Services\Payment\DA.Payment.Domain\obj\Debug\net8.0\DA.Payment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Doan-Server\Services\Payment\DA.Payment.Domain\obj\Debug\net8.0\DA.Payment.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Doan-Server\Services\Payment\DA.Payment.Domain\obj\Debug\net8.0\DA.Payment.Domain.AssemblyInfo.cs
+C:\Users\PC\source\repos\Doan-Server\Services\Payment\DA.Payment.Domain\obj\Debug\net8.0\DA.Payment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Doan-Server\Services\Payment\DA.Payment.Domain\obj\Debug\net8.0\DA.Payment.Domain.sourcelink.json
+C:\Users\PC\source\repos\Doan-Server\Services\Payment\DA.Payment.Domain\obj\Debug\net8.0\DA.Payment.Domain.dll
+C:\Users\PC\source\repos\Doan-Server\Services\Payment\DA.Payment.Domain\obj\Debug\net8.0\refint\DA.Payment.Domain.dll
+C:\Users\PC\source\repos\Doan-Server\Services\Payment\DA.Payment.Domain\obj\Debug\net8.0\DA.Payment.Domain.pdb
+C:\Users\PC\source\repos\Doan-Server\Services\Payment\DA.Payment.Domain\obj\Debug\net8.0\ref\DA.Payment.Domain.dll

@@ -496,3 +496,14 @@ D:\C#\Doan\DA.WebAPI\obj\Debug\net8.0\refint\DA.WebAPI.dll
 D:\C#\Doan\DA.WebAPI\obj\Debug\net8.0\DA.WebAPI.pdb
 D:\C#\Doan\DA.WebAPI\obj\Debug\net8.0\DA.WebAPI.genruntimeconfig.cache
 D:\C#\Doan\DA.WebAPI\obj\Debug\net8.0\ref\DA.WebAPI.dll
+C:\Users\PC\Source\Repos\Doan-Server\DA.WebAPI\obj\Debug\net8.0\DA.WebAPI.csproj.AssemblyReference.cache
+C:\Users\PC\Source\Repos\Doan-Server\DA.WebAPI\obj\Debug\net8.0\DA.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Source\Repos\Doan-Server\DA.WebAPI\obj\Debug\net8.0\DA.WebAPI.AssemblyInfoInputs.cache
+C:\Users\PC\Source\Repos\Doan-Server\DA.WebAPI\obj\Debug\net8.0\DA.WebAPI.AssemblyInfo.cs
+C:\Users\PC\Source\Repos\Doan-Server\DA.WebAPI\obj\Debug\net8.0\DA.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\PC\Source\Repos\Doan-Server\DA.WebAPI\obj\Debug\net8.0\DA.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Source\Repos\Doan-Server\DA.WebAPI\obj\Debug\net8.0\DA.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Source\Repos\Doan-Server\DA.WebAPI\obj\Debug\net8.0\DA.WebAPI.sourcelink.json
+C:\Users\PC\Source\Repos\Doan-Server\DA.WebAPI\obj\Debug\net8.0\DA.WebAPI.dll
+C:\Users\PC\Source\Repos\Doan-Server\DA.WebAPI\obj\Debug\net8.0\refint\DA.WebAPI.dll
+C:\Users\PC\Source\Repos\Doan-Server\DA.WebAPI\obj\Debug\net8.0\DA.WebAPI.pdb

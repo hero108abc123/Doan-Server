@@ -19,6 +19,8 @@
     <ProjectReference Include="..\Services\Auth\DA.Auth.ApplicationService\DA.Auth.ApplicationService.csproj" />
     <ProjectReference Include="..\Services\Auth\DA.Auth.Domain\DA.Auth.Domain.csproj" />
     <ProjectReference Include="..\Services\Auth\DA.Auth.Dtos\DA.Auth.Dtos.csproj" />
+    <ProjectReference Include="..\Services\Payment\DA.Payment.ApplicationService\DA.Payment.ApplicationService.csproj" />
+    <ProjectReference Include="..\Services\Payment\DA.Payment.Dtos\DA.Payment.Dtos.csproj" />
     <ProjectReference Include="..\Services\Shared\DA.Shared.ApplicationService\DA.Shared.ApplicationService.csproj" />
     <ProjectReference Include="..\Services\Vehicle\DA.Vehicle.ApplicationService\DA.Vehicle.ApplicationService.csproj" />
     <ProjectReference Include="..\Services\Vehicle\DA.Vehicle.Domain\DA.Vehicle.Domain.csproj" />

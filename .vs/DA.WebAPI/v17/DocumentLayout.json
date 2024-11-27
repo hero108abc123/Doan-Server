@@ -1,38 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C#\\Doan\\",
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Doan-Server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8B79D7E-CE43-4E0B-BDB4-8C698834DE1C}|Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj|d:\\c#\\doan\\services\\vehicle\\da.vehicle.applicationservice\\busmodule\\implements\\busrideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8B79D7E-CE43-4E0B-BDB4-8C698834DE1C}|Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj|solutionrelative:services\\vehicle\\da.vehicle.applicationservice\\busmodule\\implements\\busrideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71A03757-08B6-44DD-AB16-B58C484E71E4}|DA.WebAPI\\DA.WebAPI.csproj|c:\\users\\pc\\source\\repos\\doan-server\\da.webapi\\controllers\\payment\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A03757-08B6-44DD-AB16-B58C484E71E4}|DA.WebAPI\\DA.WebAPI.csproj|solutionrelative:da.webapi\\controllers\\payment\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8B79D7E-CE43-4E0B-BDB4-8C698834DE1C}|Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj|d:\\c#\\doan\\services\\vehicle\\da.vehicle.applicationservice\\busmodule\\abstracts\\ibusrideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8B79D7E-CE43-4E0B-BDB4-8C698834DE1C}|Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj|solutionrelative:services\\vehicle\\da.vehicle.applicationservice\\busmodule\\abstracts\\ibusrideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8666334A-4BE4-4DF9-A8DF-B87CB101E0A7}|Services\\Payment\\DA.Payment.ApplicationService\\DA.Payment.ApplicationService.csproj|c:\\users\\pc\\source\\repos\\doan-server\\services\\payment\\da.payment.applicationservice\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8666334A-4BE4-4DF9-A8DF-B87CB101E0A7}|Services\\Payment\\DA.Payment.ApplicationService\\DA.Payment.ApplicationService.csproj|solutionrelative:services\\payment\\da.payment.applicationservice\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AB6BEA7-2691-4B5D-96FE-700F018CC5D9}|Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj|d:\\c#\\doan\\services\\vehicle\\da.vehicle.dtos\\busridemodule\\busridedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AB6BEA7-2691-4B5D-96FE-700F018CC5D9}|Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj|solutionrelative:services\\vehicle\\da.vehicle.dtos\\busridemodule\\busridedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCF1FEDA-2CA3-4D66-938A-B7CB8FCE1308}|Services\\Payment\\DA.Payment.Infrastructure\\DA.Payment.Infrastructure.csproj|c:\\users\\pc\\source\\repos\\doan-server\\services\\payment\\da.payment.infrastructure\\vnpayconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF1FEDA-2CA3-4D66-938A-B7CB8FCE1308}|Services\\Payment\\DA.Payment.Infrastructure\\DA.Payment.Infrastructure.csproj|solutionrelative:services\\payment\\da.payment.infrastructure\\vnpayconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AB6BEA7-2691-4B5D-96FE-700F018CC5D9}|Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj|d:\\c#\\doan\\services\\vehicle\\da.vehicle.dtos\\busridemodule\\createbusridedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AB6BEA7-2691-4B5D-96FE-700F018CC5D9}|Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj|solutionrelative:services\\vehicle\\da.vehicle.dtos\\busridemodule\\createbusridedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6829A11A-8C5E-4A27-A0F6-60784108AE08}|Services\\Vehicle\\DA.Vehicle.Infrastructure\\DA.Vehicle.Infrastructure.csproj|d:\\c#\\doan\\services\\vehicle\\da.vehicle.infrastructure\\vehicledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6829A11A-8C5E-4A27-A0F6-60784108AE08}|Services\\Vehicle\\DA.Vehicle.Infrastructure\\DA.Vehicle.Infrastructure.csproj|solutionrelative:services\\vehicle\\da.vehicle.infrastructure\\vehicledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AB6BEA7-2691-4B5D-96FE-700F018CC5D9}|Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj|d:\\c#\\doan\\services\\vehicle\\da.vehicle.dtos\\busridemodule\\updatebusridedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AB6BEA7-2691-4B5D-96FE-700F018CC5D9}|Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj|solutionrelative:services\\vehicle\\da.vehicle.dtos\\busridemodule\\updatebusridedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D72844AD-1D21-4BF3-B819-020A3B1BD0B6}|Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj|d:\\c#\\doan\\services\\vehicle\\da.vehicle.domain\\vehiclebusride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D72844AD-1D21-4BF3-B819-020A3B1BD0B6}|Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj|solutionrelative:services\\vehicle\\da.vehicle.domain\\vehiclebusride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D72844AD-1D21-4BF3-B819-020A3B1BD0B6}|Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj|d:\\c#\\doan\\services\\vehicle\\da.vehicle.domain\\vehiclebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D72844AD-1D21-4BF3-B819-020A3B1BD0B6}|Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj|solutionrelative:services\\vehicle\\da.vehicle.domain\\vehiclebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92270B15-F1C3-416D-839A-3204C09BD083}|Services\\Payment\\DA.Payment.Dtos\\DA.Payment.Dtos.csproj|c:\\users\\pc\\source\\repos\\doan-server\\services\\payment\\da.payment.dtos\\vnpayrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92270B15-F1C3-416D-839A-3204C09BD083}|Services\\Payment\\DA.Payment.Dtos\\DA.Payment.Dtos.csproj|solutionrelative:services\\payment\\da.payment.dtos\\vnpayrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UpdateBusRideDto.cs",
-              "DocumentMoniker": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Dtos\\BusRideModule\\UpdateBusRideDto.cs",
-              "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.Dtos\\BusRideModule\\UpdateBusRideDto.cs",
-              "ToolTip": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Dtos\\BusRideModule\\UpdateBusRideDto.cs",
-              "RelativeToolTip": "Services\\Vehicle\\DA.Vehicle.Dtos\\BusRideModule\\UpdateBusRideDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Doan-Server\\DA.WebAPI\\Controllers\\Payment\\PaymentController.cs",
+              "RelativeDocumentMoniker": "DA.WebAPI\\Controllers\\Payment\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Doan-Server\\DA.WebAPI\\Controllers\\Payment\\PaymentController.cs",
+              "RelativeToolTip": "DA.WebAPI\\Controllers\\Payment\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T16:07:06.597Z",
+              "WhenOpened": "2024-11-27T15:40:41.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CreateBusRideDto.cs",
-              "DocumentMoniker": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Dtos\\BusRideModule\\CreateBusRideDto.cs",
-              "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.Dtos\\BusRideModule\\CreateBusRideDto.cs",
-              "ToolTip": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Dtos\\BusRideModule\\CreateBusRideDto.cs",
-              "RelativeToolTip": "Services\\Vehicle\\DA.Vehicle.Dtos\\BusRideModule\\CreateBusRideDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAmAAAAAAAAAA==",
+              "Title": "VNPayRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Doan-Server\\Services\\Payment\\DA.Payment.Dtos\\VNPayRequestDto.cs",
+              "RelativeDocumentMoniker": "Services\\Payment\\DA.Payment.Dtos\\VNPayRequestDto.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Doan-Server\\Services\\Payment\\DA.Payment.Dtos\\VNPayRequestDto.cs",
+              "RelativeToolTip": "Services\\Payment\\DA.Payment.Dtos\\VNPayRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T16:06:50.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "VehicleBus.cs",
-              "DocumentMoniker": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Domain\\VehicleBus.cs",
-              "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.Domain\\VehicleBus.cs",
-              "ToolTip": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Domain\\VehicleBus.cs",
-              "RelativeToolTip": "Services\\Vehicle\\DA.Vehicle.Domain\\VehicleBus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T16:01:44.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "VehicleDbContext.cs",
-              "DocumentMoniker": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Infrastructure\\VehicleDbContext.cs",
-              "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.Infrastructure\\VehicleDbContext.cs",
-              "ToolTip": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Infrastructure\\VehicleDbContext.cs",
-              "RelativeToolTip": "Services\\Vehicle\\DA.Vehicle.Infrastructure\\VehicleDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T15:56:16.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BusRideDto.cs",
-              "DocumentMoniker": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Dtos\\BusRideModule\\BusRideDto.cs",
-              "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.Dtos\\BusRideModule\\BusRideDto.cs",
-              "ToolTip": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Dtos\\BusRideModule\\BusRideDto.cs",
-              "RelativeToolTip": "Services\\Vehicle\\DA.Vehicle.Dtos\\BusRideModule\\BusRideDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T15:53:51.532Z",
+              "WhenOpened": "2024-11-27T15:38:05.325Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IBusRideService.cs",
-              "DocumentMoniker": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\BusModule\\Abstracts\\IBusRideService.cs",
-              "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.ApplicationService\\BusModule\\Abstracts\\IBusRideService.cs",
-              "ToolTip": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\BusModule\\Abstracts\\IBusRideService.cs",
-              "RelativeToolTip": "Services\\Vehicle\\DA.Vehicle.ApplicationService\\BusModule\\Abstracts\\IBusRideService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Title": "VNPayService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Doan-Server\\Services\\Payment\\DA.Payment.ApplicationService\\VNPayService.cs",
+              "RelativeDocumentMoniker": "Services\\Payment\\DA.Payment.ApplicationService\\VNPayService.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Doan-Server\\Services\\Payment\\DA.Payment.ApplicationService\\VNPayService.cs",
+              "RelativeToolTip": "Services\\Payment\\DA.Payment.ApplicationService\\VNPayService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T15:53:18.795Z",
+              "WhenOpened": "2024-11-27T15:31:43.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BusRideService.cs",
-              "DocumentMoniker": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\BusModule\\Implements\\BusRideService.cs",
-              "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.ApplicationService\\BusModule\\Implements\\BusRideService.cs",
-              "ToolTip": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\BusModule\\Implements\\BusRideService.cs",
-              "RelativeToolTip": "Services\\Vehicle\\DA.Vehicle.ApplicationService\\BusModule\\Implements\\BusRideService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "VNPayConfig.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Doan-Server\\Services\\Payment\\DA.Payment.Infrastructure\\VNPayConfig.cs",
+              "RelativeDocumentMoniker": "Services\\Payment\\DA.Payment.Infrastructure\\VNPayConfig.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Doan-Server\\Services\\Payment\\DA.Payment.Infrastructure\\VNPayConfig.cs",
+              "RelativeToolTip": "Services\\Payment\\DA.Payment.Infrastructure\\VNPayConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T15:39:50.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "VehicleBusRide.cs",
-              "DocumentMoniker": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Domain\\VehicleBusRide.cs",
-              "RelativeDocumentMoniker": "Services\\Vehicle\\DA.Vehicle.Domain\\VehicleBusRide.cs",
-              "ToolTip": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Domain\\VehicleBusRide.cs",
-              "RelativeToolTip": "Services\\Vehicle\\DA.Vehicle.Domain\\VehicleBusRide.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T15:01:18.727Z",
+              "WhenOpened": "2024-11-27T15:29:45.08Z",
               "EditorCaption": ""
             }
           ]
