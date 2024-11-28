@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Auth\DA.Auth.Dtos\DA.Auth.Dtos.csproj" />
+    <ProjectReference Include="..\..\Vehicle\DA.Vehicle.Dtos\DA.Vehicle.Dtos.csproj" />
+  </ItemGroup>
+
 </Project>

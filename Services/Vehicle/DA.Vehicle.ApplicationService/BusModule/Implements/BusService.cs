@@ -5,6 +5,7 @@ using DA.Vehicle.ApplicationService.Common;
 using DA.Vehicle.Domain;
 using DA.Vehicle.Dtos.BusModule;
 using DA.Vehicle.Infrastructure;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
@@ -24,58 +25,93 @@ namespace DA.Vehicle.ApplicationService.BusModule.Implements
             _dbContext = dbContext;
         }
 
-        public void AddBus(CreateBusDto input) 
+        public async Task AddBusAsync(CreateBusDto input)
         {
-            bool nameExists = _dbContext.Buses.Any(b => b.TypeName == input.TypeName);
-            if (nameExists)
-            {
-                throw new UserFriendlyException("This name is already in use by another bus type.");
-            }
-            var newBus = new VehicleBus
-            {
-                TypeName = input.TypeName,
-                Price = input.Price,
-                TotalSeat = input.TotalSeat,
-            };
-            _dbContext.Buses.Add(newBus);
-            _dbContext.SaveChanges();
+                bool nameExists = await _dbContext.Buses.AnyAsync(b => b.TypeName == input.TypeName);
+                if (nameExists)
+                {
+                    throw new UserFriendlyException("This name is already in use by another bus type.");
+                }
+
+                var newBus = new VehicleBus
+                {
+                    TypeName = input.TypeName,
+                    Price = input.Price,
+                    TotalSeat = input.TotalSeat,
+                };
+
+                await _dbContext.Buses.AddAsync(newBus);
+                await _dbContext.SaveChangesAsync();
         }
 
-        public void UpdateBus(UpdateBusDto input)
+        public async Task UpdateBusAsync(UpdateBusDto input)
         {
+                var bus = await _dbContext.Buses.FirstOrDefaultAsync(b => b.Id == input.Id);
 
-            var bus = _dbContext.Buses.FirstOrDefault(b => b.Id == input.Id);
+                if (bus == null)
+                {
+                    throw new UserFriendlyException("Bus not found!");
+                }
 
-            if (bus == null)
-            {
-                throw new UserFriendlyException("Bus not found!");
-            }
+                bool nameExists = await _dbContext.Buses
+                    .AnyAsync(b => b.TypeName == input.TypeName && b.Id != bus.Id);
 
-            bool nameExists = _dbContext.Buses
-                .Any(b => b.TypeName == input.TypeName && b.Id != bus.Id);
+                if (nameExists)
+                {
+                    throw new UserFriendlyException("This name is already in use.");
+                }
 
-            if (nameExists)
-            {
-                throw new UserFriendlyException("This name is already exit.");
-            }
-
-            bus.TypeName = input.TypeName;
-            bus.Price = input.Price;
-            bus.TotalSeat = input.TotalSeat;
-            _dbContext.SaveChanges();
+                bus.TypeName = input.TypeName;
+                bus.Price = input.Price;
+                bus.TotalSeat = input.TotalSeat;
+                await _dbContext.SaveChangesAsync();
         }
 
-        public void DeleteBus(int id)
+        public async Task DeleteBusAsync(int id)
         {
-            var bus = _dbContext.Buses.FirstOrDefault(b => b.Id == id);
+                var bus = await _dbContext.Buses.FirstOrDefaultAsync(b => b.Id == id);
 
-            if (bus == null)
-            {
-                throw new UserFriendlyException("Bus not found!");
-            }
+                if (bus == null)
+                {
+                    throw new UserFriendlyException("Bus not found!");
+                }
 
-            _dbContext.Buses.Remove(bus);
-            _dbContext.SaveChanges();
+                _dbContext.Buses.Remove(bus);
+                await _dbContext.SaveChangesAsync();
+        }
+
+        public async Task<List<VehicleSeat>> GetAllSeatsAsync(int busId)
+        {
+                _logger.LogInformation("Fetching all seats for BusId: {BusId}", busId);
+
+                var seats = await _dbContext.Seats
+                    .Include(s => s.VehicleBus)
+                    .Where(s => s.BusId == busId)
+                    .ToListAsync();
+
+                if (seats.Count == 0)
+                {
+                    _logger.LogWarning("No seats found for BusId: {BusId}", busId);
+                }
+
+                return seats;
+        }
+
+        public async Task<List<VehicleSeat>> GetSeatsByStatusAsync(int busId, int status)
+        {
+                _logger.LogInformation("Fetching seats with Status: {Status} for BusId: {BusId}", status, busId);
+
+                var seats = await _dbContext.Seats
+                    .Include(s => s.VehicleBus)
+                    .Where(s => s.BusId == busId && s.Status == status)
+                    .ToListAsync();
+
+                if (seats.Count == 0)
+                {
+                    _logger.LogWarning("No seats with Status: {Status} found for BusId: {BusId}", status, busId);
+                }
+
+                return seats;
         }
     }
 }

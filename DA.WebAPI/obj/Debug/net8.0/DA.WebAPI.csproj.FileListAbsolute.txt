@@ -496,3 +496,6 @@ D:\C#\Doan\DA.WebAPI\obj\Debug\net8.0\refint\DA.WebAPI.dll
 D:\C#\Doan\DA.WebAPI\obj\Debug\net8.0\DA.WebAPI.pdb
 D:\C#\Doan\DA.WebAPI\obj\Debug\net8.0\DA.WebAPI.genruntimeconfig.cache
 D:\C#\Doan\DA.WebAPI\obj\Debug\net8.0\ref\DA.WebAPI.dll
+D:\C#\Doan\DA.WebAPI\bin\Debug\net8.0\DA.WebAPI.staticwebassets.endpoints.json
+D:\C#\Doan\DA.WebAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\C#\Doan\DA.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.DA.WebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props

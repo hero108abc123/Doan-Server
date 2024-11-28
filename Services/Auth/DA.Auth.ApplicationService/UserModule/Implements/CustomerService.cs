@@ -3,6 +3,7 @@ using DA.Auth.ApplicationService.UserModule.Abstracts;
 using DA.Auth.Domain;
 using DA.Auth.Dtos.CustomerModule;
 using DA.Auth.Infrastructure;
+using DA.Shared.ApplicationService.Auth;
 using DA.Shared.Exceptions;
 using DA.Shared.Untils;
 using Microsoft.AspNetCore.Http;

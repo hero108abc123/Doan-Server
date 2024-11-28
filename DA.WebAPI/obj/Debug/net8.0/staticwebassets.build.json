@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "nqQDfh5buIKeAdt8TY5Dyiy9Oc0Q0Ctl3T6P4iJi2gQ=",
+  "Hash": "SnrgnqXUSS/IvlPlynbfXxUe+iR2tTYVdUQE32IBt1A=",
   "Source": "DA.WebAPI",
   "BasePath": "_content/DA.WebAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

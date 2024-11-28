@@ -1,5 +1,5 @@
-﻿using DA.Auth.ApplicationService.UserModule.Abstracts;
-using DA.Auth.Dtos.CustomerModule;
+﻿using DA.Auth.Dtos.CustomerModule;
+using DA.Shared.ApplicationService.Auth;
 using DA.Shared.Constant.Permission;
 using DA.WebAPI.Controllers.Base;
 using DA.WebAPI.Filters;

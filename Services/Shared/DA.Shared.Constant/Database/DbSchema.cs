@@ -12,5 +12,6 @@ namespace DA.Shared.Constant.Database
         public const string Default = "dbo";
         public const string Auth = "auth";
         public const string Vehicle = "vehicle";
+        public const string Booking = "booking";
     }
 }

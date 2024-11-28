@@ -1,4 +1,6 @@
 ﻿using DA.Shared.Constant.Database;
+using DA.Vehicle.ApplicationService.BusModule.Abstracts;
+using DA.Vehicle.ApplicationService.BusModule.Implements;
 using DA.Vehicle.Infrastructure;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;
@@ -33,6 +35,10 @@ namespace DA.Vehicle.ApplicationService.Startup
                 },
                 ServiceLifetime.Scoped
             );
+
+            builder.Services.AddScoped<IBusService, BusService>();
+            builder.Services.AddScoped<IBusRideService, BusRideService>();
+            builder.Services.AddScoped<ISeatService, SeatService>();
         }
     }
 }

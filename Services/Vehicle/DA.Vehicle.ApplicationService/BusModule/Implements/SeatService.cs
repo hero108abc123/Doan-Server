@@ -24,9 +24,9 @@ namespace DA.Vehicle.ApplicationService.BusModule.Implements
             _dbContext = dbContext;
         }
 
-        public void AddSeat(CreateSeatDto input)
+        public async Task AddSeatAsync(CreateSeatDto input)
         {
-            var bus = _dbContext.Buses.FirstOrDefault(b => b.Id == input.BusId);
+            var bus = await _dbContext.Buses.FirstOrDefaultAsync(b => b.Id == input.BusId);
             if (bus == null)
             {
                 throw new UserFriendlyException("Bus not found!");
@@ -36,36 +36,53 @@ namespace DA.Vehicle.ApplicationService.BusModule.Implements
             {
                 BusId = input.BusId,
                 Position = input.Position,
-                IsAvailable = 0,
+                Row = input.Row,
+                Floor = input.Floor,
+                Status = 0,
             };
 
-            _dbContext.Seats.Add(seat);
-            _dbContext.SaveChanges();
+            await _dbContext.Seats.AddAsync(seat);
+            await _dbContext.SaveChangesAsync();
         }
 
-        public void UpdateSeatPosition(UpdateSeatIPositionDto input)
+        public async Task UpdateSeatPositionAsync(UpdateSeatIPositionDto input)
         {
-            var seat = _dbContext.Seats.FirstOrDefault(s => s.Id == input.Id);
+            var seat = await _dbContext.Seats.FirstOrDefaultAsync(s => s.Id == input.Id);
             if (seat == null)
             {
                 throw new UserFriendlyException("Seat not found!");
             }
 
             seat.Position = input.Position;
-            _dbContext.SaveChanges();
+            seat.Row = input.Row;
+            seat.Floor = input.Floor;
+            await _dbContext.SaveChangesAsync();
         }
 
-        public void DeleteSeat(int seatId)
+        public async Task UpdateSeatStatusAsync(int id, int status)
         {
-            var seat = _dbContext.Seats.FirstOrDefault(s => s.Id == seatId);
+            var seat = await _dbContext.Seats.FirstOrDefaultAsync(s => s.Id == id);
+            if (seat == null)
+            {
+                throw new UserFriendlyException("Seat not found!");
+            }
+
+            seat.Status = status;
+            await _dbContext.SaveChangesAsync();
+        }
+
+        public async Task DeleteSeatAsync(int seatId)
+        {
+            var seat = await _dbContext.Seats.FirstOrDefaultAsync(s => s.Id == seatId);
             if (seat == null)
             {
                 throw new UserFriendlyException("Seat not found!");
             }
 
             _dbContext.Seats.Remove(seat);
-            _dbContext.SaveChanges();
+            await _dbContext.SaveChangesAsync();
         }
+
 
     }
 }

@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+	
+	<ItemGroup>
+		<FrameworkReference Include="Microsoft.AspNetCore.App" />
+	</ItemGroup>
+	
+	<ItemGroup>
+	  <ProjectReference Include="..\..\Shared\DA.Shared.ApplicationService\DA.Shared.ApplicationService.csproj" />
+	  <ProjectReference Include="..\..\Shared\DA.Shared.Constant\DA.Shared.Constant.csproj" />
+	  <ProjectReference Include="..\..\Shared\DA.Shared.Dtos\DA.Shared.Dtos.csproj" />
+	  <ProjectReference Include="..\..\Shared\DA.Shared.Exceptions\DA.Shared.Exceptions.csproj" />
+	  <ProjectReference Include="..\..\Shared\DA.Shared.Untils\DA.Shared.Untils.csproj" />
+	  <ProjectReference Include="..\DA.Booking.Dtos\DA.Booking.Dtos.csproj" />
+	  <ProjectReference Include="..\DA.Booking.Infrastucture\DA.Booking.Infrastucture.csproj" />
+	</ItemGroup>
+</Project>

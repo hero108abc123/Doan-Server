@@ -16,6 +16,7 @@ namespace DA.Vehicle.Domain
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
         public string RideName { get; set; }
+        public string LicensePlate { get; set; }
         public DateTime StartTime { get; set; }
         public DateTime EndTime { get; set; }
         public string StartLocation { get; set; }

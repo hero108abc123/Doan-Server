@@ -16,7 +16,9 @@ namespace DA.Vehicle.Domain
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
         public string Position { get; set; }
-        public int IsAvailable { get; set; }
+        public string Row { get; set; }
+        public string Floor { get; set; }
+        public int Status { get; set; }
         public int BusId { get; set; }
 
         [ForeignKey("BusId")]
