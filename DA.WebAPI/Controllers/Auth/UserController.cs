@@ -24,7 +24,7 @@ namespace DA.WebAPI.Controllers.Auth
             try
             {
                 _authService.CreateUser(input);
-                return Ok();
+                return Ok(new { message = "User created successfully." });
             }
             catch (Exception ex)
             {

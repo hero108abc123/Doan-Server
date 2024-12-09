@@ -1,5 +1,6 @@
-﻿using DA.Shared.Exceptions;
-using DA.Vehicle.ApplicationService.BusModule.Abstracts;
+﻿
+using DA.Shared.ApplicationService.Vehicle;
+using DA.Shared.Exceptions;
 using DA.Vehicle.ApplicationService.Common;
 using DA.Vehicle.Domain;
 using DA.Vehicle.Dtos.BusRideModule;
@@ -124,7 +125,6 @@ namespace DA.Vehicle.ApplicationService.BusModule.Implements
                     Row = s.Row,
                     Floor = s.Floor,
                     Status = s.Status,
-                    BusId = s.BusId
                 })
                 .ToListAsync();
 
@@ -150,7 +150,6 @@ namespace DA.Vehicle.ApplicationService.BusModule.Implements
                     Row = s.Row,
                     Floor = s.Floor,
                     Status = s.Status,
-                    BusId = s.BusId
                 })
                 .ToListAsync();
 
@@ -212,5 +211,28 @@ namespace DA.Vehicle.ApplicationService.BusModule.Implements
             };
         }
 
+        public async Task UpdateSeatStatusBybusRide(int busRideId, int seatId, int status)
+        {
+            var seat = await _dbContext.Seats
+             .Include(s => s.VehicleBus)
+             .ThenInclude(b => b.BusRides) 
+             .FirstOrDefaultAsync(s => s.Id == seatId && s.VehicleBus.BusRides.Any(r => r.Id == busRideId));
+
+            if (seat == null)
+            {
+                _logger.LogWarning("Seat not found or does not belong to BusRideId: {BusRideId}", busRideId);
+                throw new UserFriendlyException("Seat not found or does not belong to the specified bus ride!");
+            }
+
+            // Kiểm tra ghế có trống hay không (Status = 0 nghĩa là trống)
+            if (seat.Status != 0)
+            {
+                _logger.LogWarning("Seat with SeatId: {SeatId} in BusRideId: {BusRideId} is not available. Current Status: {Status}", seatId, busRideId, seat.Status);
+                throw new UserFriendlyException("The seat is not available!");
+            }
+
+            seat.Status = status;
+            await _dbContext.SaveChangesAsync();
+        }
     }
 }

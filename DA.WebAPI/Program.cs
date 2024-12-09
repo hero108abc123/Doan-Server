@@ -1,4 +1,5 @@
 using DA.Auth.ApplicationService.Startup;
+using DA.Booking.ApplicationService.Startup;
 using DA.Vehicle.ApplicationService.Startup;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
@@ -75,6 +76,7 @@ builder.Services.AddSwaggerGen(c =>
 
 builder.ConfigureAuth("DA.WebAPI");
 builder.ConfigureVehicle("DA.WebAPI");
+builder.ConfigureBooking("DA.WebAPI");
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

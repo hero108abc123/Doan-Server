@@ -84,3 +84,5 @@ D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\obj\Debug\net8.0\DA.Auth.App
 D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\obj\Debug\net8.0\refint\DA.Auth.ApplicationService.dll
 D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\obj\Debug\net8.0\DA.Auth.ApplicationService.pdb
 D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\obj\Debug\net8.0\ref\DA.Auth.ApplicationService.dll
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\bin\Debug\net8.0\DA.Vehicle.Dtos.dll
+D:\C#\Doan\Services\Auth\DA.Auth.ApplicationService\bin\Debug\net8.0\DA.Vehicle.Dtos.pdb

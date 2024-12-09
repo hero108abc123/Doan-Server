@@ -1,4 +1,5 @@
-﻿using DA.Shared.Constant.Database;
+﻿using DA.Shared.ApplicationService.Vehicle;
+using DA.Shared.Constant.Database;
 using DA.Vehicle.ApplicationService.BusModule.Abstracts;
 using DA.Vehicle.ApplicationService.BusModule.Implements;
 using DA.Vehicle.Infrastructure;

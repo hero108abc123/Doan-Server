@@ -20,7 +20,7 @@ namespace DA.Booking.Domain
         public string Route{ get; set; }
         public string SeatPosition { get; set; }
         public decimal Amount { get; set; }
-        public string Status { get; set; }
+        public int Status { get; set; }
         public DateTime CreatedAt { get; set; }
 
     }

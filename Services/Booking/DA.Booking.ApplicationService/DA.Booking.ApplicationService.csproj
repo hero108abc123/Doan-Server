@@ -11,6 +11,11 @@
 	</ItemGroup>
 	
 	<ItemGroup>
+	  <PackageReference Include="Hangfire" Version="1.8.17" />
+	  <PackageReference Include="Hangfire.SqlServer" Version="1.8.17" />
+	</ItemGroup>
+	
+	<ItemGroup>
 	  <ProjectReference Include="..\..\Shared\DA.Shared.ApplicationService\DA.Shared.ApplicationService.csproj" />
 	  <ProjectReference Include="..\..\Shared\DA.Shared.Constant\DA.Shared.Constant.csproj" />
 	  <ProjectReference Include="..\..\Shared\DA.Shared.Dtos\DA.Shared.Dtos.csproj" />

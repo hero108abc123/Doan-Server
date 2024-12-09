@@ -59,15 +59,15 @@ namespace DA.Vehicle.ApplicationService.BusModule.Implements
             await _dbContext.SaveChangesAsync();
         }
 
-        public async Task UpdateSeatStatusAsync(int id, int status)
+        public async Task UpdateSeatStatusAsync(UpdateSeatStatusDto input)
         {
-            var seat = await _dbContext.Seats.FirstOrDefaultAsync(s => s.Id == id);
+            var seat = await _dbContext.Seats.FirstOrDefaultAsync(s => s.Id == input.Id);
             if (seat == null)
             {
                 throw new UserFriendlyException("Seat not found!");
             }
 
-            seat.Status = status;
+            seat.Status = input.Status;
             await _dbContext.SaveChangesAsync();
         }
 

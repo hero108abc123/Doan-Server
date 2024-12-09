@@ -1,11 +1,13 @@
-﻿using DA.Booking.ApplicationService.BookingModule.Abstracts;
+﻿using Azure.Core;
+using DA.Booking.ApplicationService.BookingModule.Abstracts;
 using DA.Booking.ApplicationService.Common;
 using DA.Booking.Domain;
-using DA.Booking.Dtos.OrderModule;
+using DA.Booking.Dtos.TicketModule;
 using DA.Booking.Infrastucture;
 using DA.Shared.ApplicationService.Auth;
 using DA.Shared.ApplicationService.Vehicle;
 using DA.Shared.Exceptions;
+using Hangfire;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using System;
@@ -22,8 +24,8 @@ namespace DA.Booking.ApplicationService.BookingModule.Implements
         private readonly BookingDbContext _dbContext;
         private readonly IBusRideService _busRideService;
         private readonly ICustomerService _customerService;
-        private readonly IVnPayService _vnPayService;
-        public OrderService(ILogger<OrderService> logger, BookingDbContext dbContext, IBusRideService busRideService, ICustomerService customerService, IVnPayService vnPayService) : base(logger, dbContext)
+        private readonly IPaymentService _vnPayService;
+        public OrderService(ILogger<OrderService> logger, BookingDbContext dbContext, IBusRideService busRideService, ICustomerService customerService, IPaymentService vnPayService) : base(logger, dbContext)
         {
             _logger = logger;
             _dbContext = dbContext;
@@ -34,7 +36,7 @@ namespace DA.Booking.ApplicationService.BookingModule.Implements
 
         public async Task CreateTicketAsync(CreateTicketDto request)
         {
-            var seat = _busRideService.GetSeatWithBusRide(request.BusRideId, request.SeatId);
+            var seat = _busRideService.GetAvailableSeatWithBusRideInfoAsync(request.BusRideId, request.SeatId);
 
             if (seat == null)
             {
@@ -42,29 +44,31 @@ namespace DA.Booking.ApplicationService.BookingModule.Implements
             }
 
             var customer = _customerService.GetCustomer();
-            if (seat == null)
+            if (customer == null)
             {
                 throw new UserFriendlyException("Customer not found.");
             }
-
+             
             var ticket = new Ticket
             {
                 CustomerName = customer.FullName,
                 Route = seat.Result.BusRideName,
-                SeatPosition = "{seat.Result.Row}{seat.Result.Position}-{seat.Result.Floor}",
+                SeatPosition = $"{seat.Result.Row}{seat.Result.Position}-{seat.Result.Floor}",
                 Amount = seat.Result.Price,
-                Status = "Pending",
+                Status = 2,
                 CreatedAt = DateTime.UtcNow
             };
+
+            await _busRideService.UpdateSeatStatusBybusRide(request.BusRideId, request.SeatId, 1);
             var paymentLink = _vnPayService.GeneratePaymentLink(ticket.Amount, ticket.Id.ToString());
             await _dbContext.Tickets.AddAsync(ticket);
             await _dbContext.SaveChangesAsync();
-            
+            BackgroundJob.Schedule(() => ProcessPaymentStatusAsync(ticket.Id, request.SeatId, request.BusRideId), TimeSpan.FromMinutes(10));
         }
 
-        public async Task ProcessPaymentStatusAsync(int ticketId)
+        private async Task ProcessPaymentStatusAsync(int ticketId, int seatId, int busRideId)
         {
-            var ticket = await _dbContext.Tickets.FindAsync(ticketId);
+            var ticket = await _dbContext.Tickets.FirstOrDefaultAsync(t => t.Id == ticketId);
 
             if (ticket == null)
             {
@@ -77,14 +81,14 @@ namespace DA.Booking.ApplicationService.BookingModule.Implements
             if (paymentStatus == "Paid")
             {
                 // 4. Cập nhật trạng thái vé thành 'Confirmed'
-                ticket.Status = "Confirmed";
+                ticket.Status = 1;
 
                 // 5. Tạo hóa đơn thanh toán
                 var invoice = new Invoice
                 {
                     TicketId = ticket.Id,
                     TransactionId = Guid.NewGuid().ToString(),
-                    Status = "Paid",
+                    Status = 1,
                     PaymentDate = DateTime.UtcNow
                 };
 
@@ -93,7 +97,8 @@ namespace DA.Booking.ApplicationService.BookingModule.Implements
             else
             {
                 // Cập nhật trạng thái vé thành 'Expired' nếu không thanh toán
-                ticket.Status = "Expired";
+                ticket.Status = 0;
+                await _busRideService.UpdateSeatStatusBybusRide(busRideId, seatId, 0);
             }
 
             await _dbContext.SaveChangesAsync();

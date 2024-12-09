@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace DA.Booking.ApplicationService.BookingModule.Implements
 {
-    public class VnPayService : BookingServiceBase,IVnPayService
+    public class VnPayService : BookingServiceBase,IPaymentService
     {
         private readonly ILogger _logger;
         private readonly BookingDbContext _dbContext;

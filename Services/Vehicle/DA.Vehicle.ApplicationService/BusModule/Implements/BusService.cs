@@ -4,6 +4,7 @@ using DA.Vehicle.ApplicationService.BusModule.Abstracts;
 using DA.Vehicle.ApplicationService.Common;
 using DA.Vehicle.Domain;
 using DA.Vehicle.Dtos.BusModule;
+using DA.Vehicle.Dtos.SeatModule;
 using DA.Vehicle.Infrastructure;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
@@ -80,35 +81,53 @@ namespace DA.Vehicle.ApplicationService.BusModule.Implements
                 await _dbContext.SaveChangesAsync();
         }
 
-        public async Task<List<VehicleSeat>> GetAllSeatsAsync(int busId)
+        public async Task<List<SeatDto>> GetAllSeatsAsync(int busId)
         {
                 _logger.LogInformation("Fetching all seats for BusId: {BusId}", busId);
 
                 var seats = await _dbContext.Seats
                     .Include(s => s.VehicleBus)
                     .Where(s => s.BusId == busId)
+                    .Select(s => new SeatDto
+                    {
+                        Id = s.Id,
+                        Position = s.Position,
+                        Row = s.Row,
+                        Floor = s.Floor,
+                        Status = s.Status,
+                    })
                     .ToListAsync();
 
                 if (seats.Count == 0)
                 {
                     _logger.LogWarning("No seats found for BusId: {BusId}", busId);
+                    throw new UserFriendlyException("Seat not found!");
                 }
 
                 return seats;
         }
 
-        public async Task<List<VehicleSeat>> GetSeatsByStatusAsync(int busId, int status)
+        public async Task<List<SeatDto>> GetSeatsByStatusAsync(SeatWithStatusDto input)
         {
-                _logger.LogInformation("Fetching seats with Status: {Status} for BusId: {BusId}", status, busId);
+                _logger.LogInformation("Fetching seats with Status: {Status} for BusId: {BusId}", input.Status, input.BusId);
 
                 var seats = await _dbContext.Seats
                     .Include(s => s.VehicleBus)
-                    .Where(s => s.BusId == busId && s.Status == status)
+                    .Where(s => s.BusId == input.BusId && s.Status == input.Status)
+                    .Select(s => new SeatDto
+                    {
+                        Id = s.Id,
+                        Position = s.Position,
+                        Row = s.Row,
+                        Floor = s.Floor,
+                        Status = s.Status,
+                    })
                     .ToListAsync();
 
                 if (seats.Count == 0)
                 {
-                    _logger.LogWarning("No seats with Status: {Status} found for BusId: {BusId}", status, busId);
+                    _logger.LogWarning("No seats with Status: {Status} found for BusId: {BusId}", input.Status, input.BusId);
+                     throw new UserFriendlyException("Seat not found!");
                 }
 
                 return seats;

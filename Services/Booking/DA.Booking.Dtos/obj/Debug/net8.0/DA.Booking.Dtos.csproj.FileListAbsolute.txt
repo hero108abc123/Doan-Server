@@ -1,0 +1,12 @@
+D:\C#\Doan\Services\Booking\DA.Booking.Dtos\bin\Debug\net8.0\DA.Booking.Dtos.deps.json
+D:\C#\Doan\Services\Booking\DA.Booking.Dtos\bin\Debug\net8.0\DA.Booking.Dtos.dll
+D:\C#\Doan\Services\Booking\DA.Booking.Dtos\bin\Debug\net8.0\DA.Booking.Dtos.pdb
+D:\C#\Doan\Services\Booking\DA.Booking.Dtos\obj\Debug\net8.0\DA.Booking.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Doan\Services\Booking\DA.Booking.Dtos\obj\Debug\net8.0\DA.Booking.Dtos.AssemblyInfoInputs.cache
+D:\C#\Doan\Services\Booking\DA.Booking.Dtos\obj\Debug\net8.0\DA.Booking.Dtos.AssemblyInfo.cs
+D:\C#\Doan\Services\Booking\DA.Booking.Dtos\obj\Debug\net8.0\DA.Booking.Dtos.csproj.CoreCompileInputs.cache
+D:\C#\Doan\Services\Booking\DA.Booking.Dtos\obj\Debug\net8.0\DA.Booking.Dtos.sourcelink.json
+D:\C#\Doan\Services\Booking\DA.Booking.Dtos\obj\Debug\net8.0\DA.Booking.Dtos.dll
+D:\C#\Doan\Services\Booking\DA.Booking.Dtos\obj\Debug\net8.0\refint\DA.Booking.Dtos.dll
+D:\C#\Doan\Services\Booking\DA.Booking.Dtos\obj\Debug\net8.0\DA.Booking.Dtos.pdb
+D:\C#\Doan\Services\Booking\DA.Booking.Dtos\obj\Debug\net8.0\ref\DA.Booking.Dtos.dll

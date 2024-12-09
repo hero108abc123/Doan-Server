@@ -57,3 +57,5 @@ D:\C#\Doan\Services\Vehicle\DA.Vehicle.ApplicationService\obj\Debug\net8.0\DA.Ve
 D:\C#\Doan\Services\Vehicle\DA.Vehicle.ApplicationService\obj\Debug\net8.0\refint\DA.Vehicle.ApplicationService.dll
 D:\C#\Doan\Services\Vehicle\DA.Vehicle.ApplicationService\obj\Debug\net8.0\DA.Vehicle.ApplicationService.pdb
 D:\C#\Doan\Services\Vehicle\DA.Vehicle.ApplicationService\obj\Debug\net8.0\ref\DA.Vehicle.ApplicationService.dll
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.ApplicationService\bin\Debug\net8.0\DA.Auth.Dtos.dll
+D:\C#\Doan\Services\Vehicle\DA.Vehicle.ApplicationService\bin\Debug\net8.0\DA.Auth.Dtos.pdb

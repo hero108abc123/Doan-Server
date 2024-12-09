@@ -1,4 +1,5 @@
 ﻿using DA.Vehicle.Dtos.BusRideModule;
+using DA.Vehicle.Dtos.SeatModule;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,6 +14,10 @@ namespace DA.Shared.ApplicationService.Vehicle
         Task CreateBusRideAsync(CreateBusRideDto input);
         Task UpdateBusRideAsync(UpdateBusRideDto input);
         Task DeleteBusRideAsync(int id);
-        Task<SeatWithBusRideDto> GetSeatWithBusRide(int BusRideId,int SeatId);
+        Task<List<SeatDto>> GetAllSeatsAsync(int busRideId);
+        Task<List<SeatDto>> GetAvailableSeatsAsync(int busRideId);
+        Task<SeatWithBusRideDto> GetAvailableSeatWithBusRideInfoAsync(int busRideId,int seatId);
+
+        Task UpdateSeatStatusBybusRide(int busRideId, int SeatId, int status);
     }
 }

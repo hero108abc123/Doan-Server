@@ -74,6 +74,182 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "DA.WebAPI.Controllers.Vehicle.BusController",
+    "Method": "AddBus",
+    "RelativePath": "api/Bus/add-bus",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "DA.Vehicle.Dtos.BusModule.CreateBusDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DA.WebAPI.Controllers.Vehicle.BusController",
+    "Method": "DeleteBus",
+    "RelativePath": "api/Bus/delete-bus/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DA.WebAPI.Controllers.Vehicle.BusController",
+    "Method": "GetAllSeats",
+    "RelativePath": "api/Bus/get-all-seats/{busId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "busId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DA.WebAPI.Controllers.Vehicle.BusController",
+    "Method": "GetSeatsByStatus",
+    "RelativePath": "api/Bus/get-seats-by-status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "DA.Vehicle.Dtos.SeatModule.SeatWithStatusDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DA.WebAPI.Controllers.Vehicle.BusController",
+    "Method": "UpdateBus",
+    "RelativePath": "api/Bus/update-bus",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "DA.Vehicle.Dtos.BusModule.UpdateBusDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DA.WebAPI.Controllers.Vehicle.BusRideController",
+    "Method": "GetAvailableSeats",
+    "RelativePath": "api/BusRide/{busRideId}/get-available-seats",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "busRideId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DA.WebAPI.Controllers.Vehicle.BusRideController",
+    "Method": "GetAllSeats",
+    "RelativePath": "api/BusRide/{busRideId}/get-seats",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "busRideId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DA.WebAPI.Controllers.Vehicle.BusRideController",
+    "Method": "CreateBusRide",
+    "RelativePath": "api/BusRide/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "DA.Vehicle.Dtos.BusRideModule.CreateBusRideDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DA.WebAPI.Controllers.Vehicle.BusRideController",
+    "Method": "DeleteBusRide",
+    "RelativePath": "api/BusRide/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DA.WebAPI.Controllers.Vehicle.BusRideController",
+    "Method": "GetBusRideById",
+    "RelativePath": "api/BusRide/get-by-id/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DA.WebAPI.Controllers.Vehicle.BusRideController",
+    "Method": "UpdateBusRide",
+    "RelativePath": "api/BusRide/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "DA.Vehicle.Dtos.BusRideModule.UpdateBusRideDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "DA.WebAPI.Controllers.Auth.CustomerController",
     "Method": "CreateCustomer",
     "RelativePath": "api/Customer/create",
@@ -120,6 +296,196 @@
       {
         "Name": "input",
         "Type": "DA.Auth.Dtos.CustomerModule.UpdateCustomerDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DA.WebAPI.Controllers.Booking.InvoiceController",
+    "Method": "GetAllInvoices",
+    "RelativePath": "api/Invoice/get-all-invoice",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DA.WebAPI.Controllers.Booking.InvoiceController",
+    "Method": "GetInvoicesByCustomer",
+    "RelativePath": "api/Invoice/get-invoice-by-customer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DA.WebAPI.Controllers.Booking.OrderController",
+    "Method": "CreateTicket",
+    "RelativePath": "api/Order/booking",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DA.Booking.Dtos.TicketModule.CreateTicketDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DA.WebAPI.Controllers.Vehicle.SeatController",
+    "Method": "AddSeat",
+    "RelativePath": "api/Seat/add-seat",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "DA.Vehicle.Dtos.SeatModule.CreateSeatDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DA.WebAPI.Controllers.Vehicle.SeatController",
+    "Method": "DeleteSeat",
+    "RelativePath": "api/Seat/delete-seat/{seatId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "seatId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DA.WebAPI.Controllers.Vehicle.SeatController",
+    "Method": "UpdateSeatPosition",
+    "RelativePath": "api/Seat/update-seat-position",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "DA.Vehicle.Dtos.SeatModule.UpdateSeatIPositionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DA.WebAPI.Controllers.Vehicle.SeatController",
+    "Method": "UpdateSeatStatus",
+    "RelativePath": "api/Seat/update-seat-status",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "DA.Vehicle.Dtos.SeatModule.UpdateSeatStatusDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DA.WebAPI.Controllers.Booking.TicketController",
+    "Method": "DeleteTicket",
+    "RelativePath": "api/Ticket/delete/{ticketId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ticketId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DA.WebAPI.Controllers.Booking.TicketController",
+    "Method": "GetTicketsByBus",
+    "RelativePath": "api/Ticket/get-by-bus/{busRideId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "busRideId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DA.WebAPI.Controllers.Booking.TicketController",
+    "Method": "GetTicketsByCustomer",
+    "RelativePath": "api/Ticket/get-by-customer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DA.WebAPI.Controllers.Booking.TicketController",
+    "Method": "GetTicketById",
+    "RelativePath": "api/Ticket/get-by-id/{ticketId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ticketId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DA.WebAPI.Controllers.Booking.TicketController",
+    "Method": "GetTicketsByStatus",
+    "RelativePath": "api/Ticket/get-by-status/{status}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "status",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DA.WebAPI.Controllers.Booking.TicketController",
+    "Method": "UpdateTicketStatus",
+    "RelativePath": "api/Ticket/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "DA.Booking.Dtos.TicketModule.UpdateTicketStatusDto",
         "IsRequired": true
       }
     ],

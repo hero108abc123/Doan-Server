@@ -1,6 +1,7 @@
 ﻿using DA.Auth.ApplicationService.UserModule.Abstracts;
 using DA.Auth.ApplicationService.UserModule.Implements;
 using DA.Auth.Infrastructure;
+using DA.Shared.ApplicationService.Auth;
 using DA.Shared.Constant.Database;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;

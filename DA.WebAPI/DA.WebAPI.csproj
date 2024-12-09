@@ -8,9 +8,14 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.10" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.10">
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.0">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.0">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
     </PackageReference>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
@@ -19,6 +24,9 @@
     <ProjectReference Include="..\Services\Auth\DA.Auth.ApplicationService\DA.Auth.ApplicationService.csproj" />
     <ProjectReference Include="..\Services\Auth\DA.Auth.Domain\DA.Auth.Domain.csproj" />
     <ProjectReference Include="..\Services\Auth\DA.Auth.Dtos\DA.Auth.Dtos.csproj" />
+    <ProjectReference Include="..\Services\Booking\DA.Booking.ApplicationService\DA.Booking.ApplicationService.csproj" />
+    <ProjectReference Include="..\Services\Booking\DA.Booking.Domain\DA.Booking.Domain.csproj" />
+    <ProjectReference Include="..\Services\Booking\DA.Booking.Dtos\DA.Booking.Dtos.csproj" />
     <ProjectReference Include="..\Services\Shared\DA.Shared.ApplicationService\DA.Shared.ApplicationService.csproj" />
     <ProjectReference Include="..\Services\Vehicle\DA.Vehicle.ApplicationService\DA.Vehicle.ApplicationService.csproj" />
     <ProjectReference Include="..\Services\Vehicle\DA.Vehicle.Domain\DA.Vehicle.Domain.csproj" />

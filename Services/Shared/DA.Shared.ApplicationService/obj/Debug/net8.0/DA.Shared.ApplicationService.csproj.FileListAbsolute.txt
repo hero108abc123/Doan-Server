@@ -32,3 +32,9 @@ D:\C#\Doan\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\DA.Shar
 D:\C#\Doan\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\refint\DA.Shared.ApplicationService.dll
 D:\C#\Doan\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\DA.Shared.ApplicationService.pdb
 D:\C#\Doan\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\ref\DA.Shared.ApplicationService.dll
+D:\C#\Doan\Services\Shared\DA.Shared.ApplicationService\bin\Debug\net8.0\DA.Auth.Dtos.dll
+D:\C#\Doan\Services\Shared\DA.Shared.ApplicationService\bin\Debug\net8.0\DA.Vehicle.Dtos.dll
+D:\C#\Doan\Services\Shared\DA.Shared.ApplicationService\bin\Debug\net8.0\DA.Auth.Dtos.pdb
+D:\C#\Doan\Services\Shared\DA.Shared.ApplicationService\bin\Debug\net8.0\DA.Vehicle.Dtos.pdb
+D:\C#\Doan\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\DA.Shared.ApplicationService.csproj.AssemblyReference.cache
+D:\C#\Doan\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\DA.Share.DB15E634.Up2Date

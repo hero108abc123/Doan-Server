@@ -59,7 +59,7 @@ namespace DA.WebAPI.Controllers.Auth
             try
             {
                 _adminService.UpdateCustomer(input);
-                return Ok();
+                return Ok(new { message = "Customer updated successfully." });
             }
             catch (Exception ex)
             {
@@ -75,7 +75,7 @@ namespace DA.WebAPI.Controllers.Auth
             try
             {
                 _adminService.DeleteCustomer(id);
-                return Ok();
+                return Ok(new { message = "Customer deleted successfully." });
             }
             catch (Exception ex)
             {

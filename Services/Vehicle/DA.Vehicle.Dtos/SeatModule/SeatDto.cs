@@ -13,7 +13,5 @@ namespace DA.Vehicle.Dtos.SeatModule
         public string Row { get; set; }
         public string Floor { get; set; }
         public int Status { get; set; }
-
-        public int BusId { get; set; }
     }
 }

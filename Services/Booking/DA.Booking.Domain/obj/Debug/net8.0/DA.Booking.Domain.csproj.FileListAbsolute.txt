@@ -1,0 +1,16 @@
+D:\C#\Doan\Services\Booking\DA.Booking.Domain\bin\Debug\net8.0\DA.Booking.Domain.deps.json
+D:\C#\Doan\Services\Booking\DA.Booking.Domain\bin\Debug\net8.0\DA.Booking.Domain.dll
+D:\C#\Doan\Services\Booking\DA.Booking.Domain\bin\Debug\net8.0\DA.Booking.Domain.pdb
+D:\C#\Doan\Services\Booking\DA.Booking.Domain\bin\Debug\net8.0\DA.Shared.Constant.dll
+D:\C#\Doan\Services\Booking\DA.Booking.Domain\bin\Debug\net8.0\DA.Shared.Constant.pdb
+D:\C#\Doan\Services\Booking\DA.Booking.Domain\obj\Debug\net8.0\DA.Booking.Domain.csproj.AssemblyReference.cache
+D:\C#\Doan\Services\Booking\DA.Booking.Domain\obj\Debug\net8.0\DA.Booking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Doan\Services\Booking\DA.Booking.Domain\obj\Debug\net8.0\DA.Booking.Domain.AssemblyInfoInputs.cache
+D:\C#\Doan\Services\Booking\DA.Booking.Domain\obj\Debug\net8.0\DA.Booking.Domain.AssemblyInfo.cs
+D:\C#\Doan\Services\Booking\DA.Booking.Domain\obj\Debug\net8.0\DA.Booking.Domain.csproj.CoreCompileInputs.cache
+D:\C#\Doan\Services\Booking\DA.Booking.Domain\obj\Debug\net8.0\DA.Booking.Domain.sourcelink.json
+D:\C#\Doan\Services\Booking\DA.Booking.Domain\obj\Debug\net8.0\DA.Booki.B1772ED4.Up2Date
+D:\C#\Doan\Services\Booking\DA.Booking.Domain\obj\Debug\net8.0\DA.Booking.Domain.dll
+D:\C#\Doan\Services\Booking\DA.Booking.Domain\obj\Debug\net8.0\refint\DA.Booking.Domain.dll
+D:\C#\Doan\Services\Booking\DA.Booking.Domain\obj\Debug\net8.0\DA.Booking.Domain.pdb
+D:\C#\Doan\Services\Booking\DA.Booking.Domain\obj\Debug\net8.0\ref\DA.Booking.Domain.dll

@@ -1,5 +1,9 @@
-﻿using DA.Booking.Infrastucture;
+﻿using DA.Booking.ApplicationService.BookingModule.Abstracts;
+using DA.Booking.ApplicationService.BookingModule.Implements;
+using DA.Booking.Infrastucture;
+using DA.Shared.ApplicationService.Auth;
 using DA.Shared.Constant.Database;
+using Hangfire;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -33,6 +37,17 @@ namespace DA.Booking.ApplicationService.Startup
                 },
                 ServiceLifetime.Scoped
             );
+            builder.Services.AddScoped<IOrderService, OrderService>();
+            builder.Services.AddScoped<IPaymentService, VnPayService>();
+            builder.Services.AddScoped<IInvoiceService, InvoiceService>();
+            builder.Services.AddScoped<ITicketService, TicketService>();
+
+            // Configure Hangfire
+            builder.Services.AddHangfire(configuration =>
+                configuration.UseSqlServerStorage(builder.Configuration.GetConnectionString("Default")));
+
+            // Add Hangfire server
+            builder.Services.AddHangfireServer();
         }
     }
 }
