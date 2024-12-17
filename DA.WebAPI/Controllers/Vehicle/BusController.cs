@@ -67,32 +67,5 @@ namespace DA.WebAPI.Controllers.Vehicle
             }
         }
 
-        [HttpGet("get-all-seats/{busId}")]
-        public async Task<IActionResult> GetAllSeats(int busId)
-        {
-            try
-            {
-                var seats = await _busService.GetAllSeatsAsync(busId);
-                return Ok(seats);
-            }
-            catch (Exception ex)
-            {
-                return ReturnException(ex);
-            }
-        }
-
-        [HttpGet("get-seats-by-status")]
-        public async Task<IActionResult> GetSeatsByStatus([FromBody] SeatWithStatusDto input)
-        {
-            try
-            {
-                var seats = await _busService.GetSeatsByStatusAsync(input);
-                return Ok(seats);
-            }
-            catch (Exception ex)
-            {
-                return ReturnException(ex);
-            }
-        }
     }
 }

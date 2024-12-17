@@ -24,11 +24,11 @@ namespace DA.WebAPI.Controllers.Auth
         }
 
         [HttpGet("get-all-customer")]
-        public IActionResult GetAll([FromQuery] FilterDto input)
+        public async Task<IActionResult> GetAll()
         {
             try
             {
-                var customers = _adminService.GetAll(input);
+                var customers = await _adminService.GetAll();
                 return Ok(customers);
             }
             catch (Exception ex)

@@ -11,7 +11,7 @@ namespace DA.Auth.ApplicationService.UserModule.Abstracts
     public interface IAdminService
     {
         void DeleteCustomer(int id);
-        PageResultDto<List<CustomerDto>> GetAll(FilterDto input);
+        Task <List<CustomerDto>> GetAll();
         CustomerDto GetCustomer(int id);
         void UpdateCustomer(UpdateCustomerByAdminDto input);
     }

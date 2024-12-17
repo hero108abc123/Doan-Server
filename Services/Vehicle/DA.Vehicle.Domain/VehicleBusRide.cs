@@ -23,8 +23,12 @@ namespace DA.Vehicle.Domain
         public string EndLocation { get; set; }
         public int BusId { get; set; } // Foreign Key to Bus
 
+        public ICollection<VehicleSeat> Seats { get; set; } = new List<VehicleSeat>();
+
         [ForeignKey("BusId")]
         public VehicleBus VehicleBus { get; set; } // Navigation Property
+
+        
     }
 
 }

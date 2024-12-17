@@ -131,19 +131,22 @@ namespace DA.WebAPI.Migrations.VehicleDb
 
             modelBuilder.Entity("DA.Vehicle.Domain.VehicleSeat", b =>
                 {
-                    b.HasOne("DA.Vehicle.Domain.VehicleBus", "VehicleBus")
+                    b.HasOne("DA.Vehicle.Domain.VehicleBusRide", "BusRide")
                         .WithMany("Seats")
                         .HasForeignKey("BusId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("VehicleBus");
+                    b.Navigation("BusRide");
                 });
 
             modelBuilder.Entity("DA.Vehicle.Domain.VehicleBus", b =>
                 {
                     b.Navigation("BusRides");
+                });
 
+            modelBuilder.Entity("DA.Vehicle.Domain.VehicleBusRide", b =>
+                {
                     b.Navigation("Seats");
                 });
 #pragma warning restore 612, 618

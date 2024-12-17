@@ -10,5 +10,6 @@ namespace DA.Booking.ApplicationService.BookingModule.Abstracts
     public interface IOrderService
     {
         Task CreateTicketAsync(CreateTicketDto request);
+        Task ProcessPaymentAsync(int ticketId);
     }
 }

@@ -6,6 +6,7 @@ using DA.Auth.Infrastructure;
 using DA.Shared.Dtos;
 using DA.Shared.Exceptions;
 using DA.Shared.Untils;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
@@ -25,28 +26,15 @@ namespace DA.Auth.ApplicationService.UserModule.Implements
             _dbContext = dbContext;
         }
 
-        public PageResultDto<List<CustomerDto>> GetAll(FilterDto input)
+        public async Task<List<CustomerDto>> GetAll()
         {
-            var customerQuery = _dbContext.Customers.Select(c => new CustomerDto
+            var customerQuery = await _dbContext.Customers.Select(c => new CustomerDto
             {
                 Id = c.Id,
                 FullName = c.FullName,
                 PhoneNumber = c.PhoneNumber,
-            });
-            if (!string.IsNullOrEmpty(input.Keyword))
-            {
-                customerQuery = customerQuery.Where(c => c.FullName.ToLower().Contains(input.Keyword));
-                //or s.Name?.Contains(input.Keyword) ?? false
-            }
-            int totalItem = customerQuery.Count();
-            customerQuery = customerQuery.Skip(input.PageSize * (input.PageIndex - 1))
-                .Take(input.PageSize);
-
-            return new PageResultDto<List<CustomerDto>>
-            {
-                Items = customerQuery.ToList(),
-                TotalItem = totalItem,
-            };
+            }).ToListAsync();
+            return customerQuery;
         }
 
         public CustomerDto GetCustomer(int id)

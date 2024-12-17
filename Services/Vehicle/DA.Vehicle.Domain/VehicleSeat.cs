@@ -22,6 +22,6 @@ namespace DA.Vehicle.Domain
         public int BusId { get; set; }
 
         [ForeignKey("BusId")]
-        public VehicleBus VehicleBus { get; set; }
+        public VehicleBusRide BusRide { get; set; }
     }
 }

@@ -10,31 +10,6 @@
         "tags": [
           "Admin"
         ],
-        "parameters": [
-          {
-            "name": "pageSize",
-            "in": "query",
-            "schema": {
-              "type": "integer",
-              "format": "int32"
-            }
-          },
-          {
-            "name": "pageIndex",
-            "in": "query",
-            "schema": {
-              "type": "integer",
-              "format": "int32"
-            }
-          },
-          {
-            "name": "keyword",
-            "in": "query",
-            "schema": {
-              "type": "string"
-            }
-          }
-        ],
         "responses": {
           "200": {
             "description": "Success"
@@ -196,60 +171,6 @@
             }
           }
         ],
-        "responses": {
-          "200": {
-            "description": "Success"
-          }
-        }
-      }
-    },
-    "/api/Bus/get-all-seats/{busId}": {
-      "get": {
-        "tags": [
-          "Bus"
-        ],
-        "parameters": [
-          {
-            "name": "busId",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "integer",
-              "format": "int32"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "Success"
-          }
-        }
-      }
-    },
-    "/api/Bus/get-seats-by-status": {
-      "get": {
-        "tags": [
-          "Bus"
-        ],
-        "requestBody": {
-          "content": {
-            "application/json": {
-              "schema": {
-                "$ref": "#/components/schemas/SeatWithStatusDto"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/SeatWithStatusDto"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/SeatWithStatusDto"
-              }
-            }
-          }
-        },
         "responses": {
           "200": {
             "description": "Success"
@@ -545,6 +466,28 @@
             }
           }
         },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Order/payment": {
+      "post": {
+        "tags": [
+          "Order"
+        ],
+        "parameters": [
+          {
+            "name": "request",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
         "responses": {
           "200": {
             "description": "Success"
@@ -893,12 +836,18 @@
       "CreateBusRideDto": {
         "required": [
           "endLocation",
+          "licensePlate",
           "rideName",
           "startLocation"
         ],
         "type": "object",
         "properties": {
           "rideName": {
+            "maxLength": 30,
+            "minLength": 3,
+            "type": "string"
+          },
+          "licensePlate": {
             "maxLength": 30,
             "minLength": 3,
             "type": "string"
@@ -957,18 +906,15 @@
         "type": "object",
         "properties": {
           "position": {
-            "maxLength": 30,
-            "minLength": 3,
+            "minLength": 1,
             "type": "string"
           },
           "row": {
-            "maxLength": 30,
-            "minLength": 3,
+            "minLength": 1,
             "type": "string"
           },
           "floor": {
-            "maxLength": 30,
-            "minLength": 3,
+            "minLength": 1,
             "type": "string"
           },
           "busId": {
@@ -1038,20 +984,6 @@
         },
         "additionalProperties": false
       },
-      "SeatWithStatusDto": {
-        "type": "object",
-        "properties": {
-          "busId": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "status": {
-            "type": "integer",
-            "format": "int32"
-          }
-        },
-        "additionalProperties": false
-      },
       "UpdateBusDto": {
         "required": [
           "typeName"
@@ -1081,6 +1013,7 @@
       "UpdateBusRideDto": {
         "required": [
           "endLocation",
+          "licensePlate",
           "rideName",
           "startLocation"
         ],
@@ -1091,6 +1024,11 @@
             "format": "int32"
           },
           "rideName": {
+            "maxLength": 30,
+            "minLength": 3,
+            "type": "string"
+          },
+          "licensePlate": {
             "maxLength": 30,
             "minLength": 3,
             "type": "string"
@@ -1177,18 +1115,15 @@
             "format": "int32"
           },
           "position": {
-            "maxLength": 30,
-            "minLength": 3,
+            "minLength": 1,
             "type": "string"
           },
           "row": {
-            "maxLength": 30,
-            "minLength": 3,
+            "minLength": 1,
             "type": "string"
           },
           "floor": {
-            "maxLength": 30,
-            "minLength": 3,
+            "minLength": 1,
             "type": "string"
           }
         },

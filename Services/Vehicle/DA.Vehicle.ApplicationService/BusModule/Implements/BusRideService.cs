@@ -42,6 +42,7 @@ namespace DA.Vehicle.ApplicationService.BusModule.Implements
             {
                 Id = ride.Id,
                 RideName = ride.RideName,
+                LicensePlate = ride.LicensePlate,
                 StartTime = ride.StartTime,
                 EndTime = ride.EndTime,
                 StartLocation = ride.StartLocation,
@@ -62,6 +63,7 @@ namespace DA.Vehicle.ApplicationService.BusModule.Implements
             var newRide = new VehicleBusRide
             {
                 RideName = input.RideName,
+                LicensePlate = input.LicensePlate,
                 StartTime = input.StartTime,
                 EndTime = input.EndTime,
                 StartLocation = input.StartLocation,
@@ -89,6 +91,7 @@ namespace DA.Vehicle.ApplicationService.BusModule.Implements
             }
 
             ride.RideName = input.RideName;
+            ride.LicensePlate = input.LicensePlate;
             ride.StartTime = input.StartTime;
             ride.EndTime = input.EndTime;
             ride.StartLocation = input.StartLocation;
@@ -116,8 +119,8 @@ namespace DA.Vehicle.ApplicationService.BusModule.Implements
             _logger.LogInformation("Fetching all seats for BusRideId: {BusRideId}", busRideId);
 
             var seats = await _dbContext.Seats
-                .Include(s => s.VehicleBus) // Bao gồm thông tin của Bus
-                .Where(s => s.VehicleBus.BusRides.Any(r => r.Id == busRideId))
+                .Include(s => s.BusRide) // Bao gồm thông tin của Bus
+                .Where(s => s.BusId == busRideId)
                 .Select(s => new SeatDto
                 {
                     Id = s.Id,
@@ -141,8 +144,8 @@ namespace DA.Vehicle.ApplicationService.BusModule.Implements
             _logger.LogInformation("Fetching available seats (Status = 0) for BusRideId: {BusRideId}", busRideId);
 
             var seats = await _dbContext.Seats
-                .Include(s => s.VehicleBus) // Bao gồm thông tin của Bus
-                .Where(s => s.VehicleBus.BusRides.Any(r => r.Id == busRideId) && s.Status == 0)
+                .Include(s => s.BusRide) // Bao gồm thông tin của Bus
+                .Where(s => s.Status == 0)
                 .Select(s => new SeatDto
                 {
                     Id = s.Id,
@@ -167,9 +170,8 @@ namespace DA.Vehicle.ApplicationService.BusModule.Implements
 
             // Lấy thông tin ghế và kiểm tra xem ghế có thuộc về chuyến xe chỉ định không
             var seat = await _dbContext.Seats
-                .Include(s => s.VehicleBus) // Bao gồm thông tin của Bus
-                .ThenInclude(b => b.BusRides) // Bao gồm thông tin của các BusRide liên quan
-                .FirstOrDefaultAsync(s => s.Id == seatId && s.VehicleBus.BusRides.Any(r => r.Id == busRideId));
+                .Include(s => s.BusRide) // Bao gồm thông tin của Bus// Bao gồm thông tin của các BusRide liên quan
+                .FirstOrDefaultAsync(s => s.Id == seatId);
 
             if (seat == null)
             {
@@ -185,7 +187,7 @@ namespace DA.Vehicle.ApplicationService.BusModule.Implements
             }
 
             // Lấy thông tin chuyến xe
-            var busRide = seat.VehicleBus.BusRides.FirstOrDefault(r => r.Id == busRideId);
+            var busRide = await _dbContext.BusRides.Include(br => br.VehicleBus).FirstOrDefaultAsync(br => br.Id == seat.BusId);
 
             if (busRide == null)
             {
@@ -200,7 +202,7 @@ namespace DA.Vehicle.ApplicationService.BusModule.Implements
                 Row = seat.Row,
                 Floor = seat.Floor,
                 Status = seat.Status,
-                BusId = seat.BusId,
+                BusId = busRide.BusId,
                 Price = busRide.VehicleBus.Price,
                 BusRideId = busRide.Id,
                 BusRideName = busRide.RideName,
@@ -214,9 +216,8 @@ namespace DA.Vehicle.ApplicationService.BusModule.Implements
         public async Task UpdateSeatStatusBybusRide(int busRideId, int seatId, int status)
         {
             var seat = await _dbContext.Seats
-             .Include(s => s.VehicleBus)
-             .ThenInclude(b => b.BusRides) 
-             .FirstOrDefaultAsync(s => s.Id == seatId && s.VehicleBus.BusRides.Any(r => r.Id == busRideId));
+             .Include(s => s.BusRide)
+             .FirstOrDefaultAsync(s => s.Id == seatId);
 
             if (seat == null)
             {

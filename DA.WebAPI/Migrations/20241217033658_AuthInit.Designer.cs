@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DA.WebAPI.Migrations
 {
     [DbContext(typeof(AuthDbContext))]
-    [Migration("20241209020636_AuthInit")]
+    [Migration("20241217033658_AuthInit")]
     partial class AuthInit
     {
         /// <inheritdoc />

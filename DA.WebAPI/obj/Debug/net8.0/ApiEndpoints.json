@@ -22,23 +22,7 @@
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [
-      {
-        "Name": "pageSize",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "pageIndex",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "keyword",
-        "Type": "System.String",
-        "IsRequired": false
-      }
-    ],
+    "Parameters": [],
     "ReturnTypes": []
   },
   {
@@ -100,38 +84,6 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "DA.WebAPI.Controllers.Vehicle.BusController",
-    "Method": "GetAllSeats",
-    "RelativePath": "api/Bus/get-all-seats/{busId}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "busId",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "DA.WebAPI.Controllers.Vehicle.BusController",
-    "Method": "GetSeatsByStatus",
-    "RelativePath": "api/Bus/get-seats-by-status",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "input",
-        "Type": "DA.Vehicle.Dtos.SeatModule.SeatWithStatusDto",
         "IsRequired": true
       }
     ],
@@ -333,6 +285,22 @@
         "Name": "request",
         "Type": "DA.Booking.Dtos.TicketModule.CreateTicketDto",
         "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DA.WebAPI.Controllers.Booking.OrderController",
+    "Method": "ProcessPayment",
+    "RelativePath": "api/Order/payment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "System.Int32",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []

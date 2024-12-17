@@ -35,5 +35,19 @@ namespace DA.WebAPI.Controllers.Booking
                 return ReturnException(ex);
             }
         }
+
+        [HttpPost("payment")]
+        public async Task<IActionResult> ProcessPayment([FromQuery] int request)
+        {
+            try
+            {
+                await _orderService.ProcessPaymentAsync(request);
+                return Ok(new { message = "payment has been successfully." });
+            }
+            catch (Exception ex)
+            {
+                return ReturnException(ex);
+            }
+        }
     }
 }

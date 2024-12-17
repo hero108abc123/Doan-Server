@@ -13,6 +13,7 @@ using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -56,17 +57,17 @@ namespace DA.Booking.ApplicationService.BookingModule.Implements
                 SeatPosition = $"{seat.Result.Row}{seat.Result.Position}-{seat.Result.Floor}",
                 Amount = seat.Result.Price,
                 Status = 2,
-                CreatedAt = DateTime.UtcNow
+                CreatedAt = DateTime.Now
             };
 
             await _busRideService.UpdateSeatStatusBybusRide(request.BusRideId, request.SeatId, 1);
             var paymentLink = _vnPayService.GeneratePaymentLink(ticket.Amount, ticket.Id.ToString());
             await _dbContext.Tickets.AddAsync(ticket);
             await _dbContext.SaveChangesAsync();
-            BackgroundJob.Schedule(() => ProcessPaymentStatusAsync(ticket.Id, request.SeatId, request.BusRideId), TimeSpan.FromMinutes(10));
+            BackgroundJob.Schedule(() => CheckPaymentStatusAsync(ticket.Id, request.SeatId, request.BusRideId), TimeSpan.FromMinutes(10));
         }
 
-        private async Task ProcessPaymentStatusAsync(int ticketId, int seatId, int busRideId)
+        public async Task CheckPaymentStatusAsync(int ticketId, int seatId, int busRideId)
         {
             var ticket = await _dbContext.Tickets.FirstOrDefaultAsync(t => t.Id == ticketId);
 
@@ -80,19 +81,7 @@ namespace DA.Booking.ApplicationService.BookingModule.Implements
 
             if (paymentStatus == "Paid")
             {
-                // 4. Cập nhật trạng thái vé thành 'Confirmed'
-                ticket.Status = 1;
-
-                // 5. Tạo hóa đơn thanh toán
-                var invoice = new Invoice
-                {
-                    TicketId = ticket.Id,
-                    TransactionId = Guid.NewGuid().ToString(),
-                    Status = 1,
-                    PaymentDate = DateTime.UtcNow
-                };
-
-                await _dbContext.Invoices.AddAsync(invoice);
+                ProcessPaymentAsync(ticket.Id);
             }
             else
             {
@@ -101,6 +90,25 @@ namespace DA.Booking.ApplicationService.BookingModule.Implements
                 await _busRideService.UpdateSeatStatusBybusRide(busRideId, seatId, 0);
             }
 
+            await _dbContext.SaveChangesAsync();
+        }
+
+        public async Task ProcessPaymentAsync(int ticketId)
+        {
+            var ticket = await _dbContext.Tickets.FirstOrDefaultAsync(t => t.Id == ticketId);
+            // 4. Cập nhật trạng thái vé thành 'Confirmed'
+            ticket.Status = 1;
+
+            // 5. Tạo hóa đơn thanh toán
+            var invoice = new Invoice
+            {
+                TicketId = ticket.Id,
+                TransactionId = Guid.NewGuid().ToString(),
+                Status = 1,
+                PaymentDate = DateTime.Now
+            };
+
+            await _dbContext.Invoices.AddAsync(invoice);
             await _dbContext.SaveChangesAsync();
         }
     }

@@ -14,7 +14,5 @@ namespace DA.Vehicle.ApplicationService.BusModule.Abstracts
         Task AddBusAsync(CreateBusDto input);
         Task UpdateBusAsync(UpdateBusDto input);
         Task DeleteBusAsync(int id);
-        Task<List<SeatDto>> GetAllSeatsAsync(int busId);
-        Task<List<SeatDto>> GetSeatsByStatusAsync(SeatWithStatusDto input);
     }
 }

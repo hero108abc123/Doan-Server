@@ -533,7 +533,6 @@ D:\C#\Doan\DA.WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBui
 D:\C#\Doan\DA.WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\C#\Doan\DA.WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\C#\Doan\DA.WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\C#\Doan\DA.WebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\C#\Doan\DA.WebAPI\bin\Debug\net8.0\Hangfire.AspNetCore.dll
 D:\C#\Doan\DA.WebAPI\bin\Debug\net8.0\Hangfire.Core.dll
 D:\C#\Doan\DA.WebAPI\bin\Debug\net8.0\Hangfire.NetCore.dll
@@ -553,3 +552,4 @@ D:\C#\Doan\DA.WebAPI\bin\Debug\net8.0\sv\Hangfire.Core.resources.dll
 D:\C#\Doan\DA.WebAPI\bin\Debug\net8.0\tr-TR\Hangfire.Core.resources.dll
 D:\C#\Doan\DA.WebAPI\bin\Debug\net8.0\zh-TW\Hangfire.Core.resources.dll
 D:\C#\Doan\DA.WebAPI\bin\Debug\net8.0\zh\Hangfire.Core.resources.dll
+D:\C#\Doan\DA.WebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

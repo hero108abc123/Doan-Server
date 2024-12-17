@@ -74,10 +74,10 @@ namespace DA.WebAPI.Migrations.VehicleDb
                 {
                     table.PrimaryKey("PK_VehicleSeat", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_VehicleSeat_VehicleBus_BusId",
+                        name: "FK_VehicleSeat_VehicleBusRide_BusId",
                         column: x => x.BusId,
                         principalSchema: "vehicle",
-                        principalTable: "VehicleBus",
+                        principalTable: "VehicleBusRide",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                 });
@@ -99,11 +99,11 @@ namespace DA.WebAPI.Migrations.VehicleDb
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "VehicleBusRide",
+                name: "VehicleSeat",
                 schema: "vehicle");
 
             migrationBuilder.DropTable(
-                name: "VehicleSeat",
+                name: "VehicleBusRide",
                 schema: "vehicle");
 
             migrationBuilder.DropTable(

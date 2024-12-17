@@ -20,6 +20,15 @@ namespace DA.Vehicle.Dtos.BusRideModule
             get => _rideName;
             set => _rideName = value?.Trim();
         }
+
+        private string _licensePlate;
+        [Required]
+        [StringLength(30, ErrorMessage = "LicensePlate phải có độ dài từ 3 đến 30 ký tự.", MinimumLength = 3)]
+        public string LicensePlate
+        {
+            get => _licensePlate;
+            set => _licensePlate = value?.Trim();
+        }
         public DateTime StartTime { get; set; }
         public DateTime EndTime { get; set; }
 

@@ -25,9 +25,9 @@ namespace DA.Vehicle.Infrastructure
             base.OnModelCreating(modelBuilder);
 
             modelBuilder.Entity<VehicleSeat>()
-                .HasOne(vb => vb.VehicleBus)
+                .HasOne(vbr => vbr.BusRide)
                 .WithMany(vs => vs.Seats)
-                .HasForeignKey(vb => vb.BusId)
+                .HasForeignKey(vbr => vbr.BusId)
                 .OnDelete(DeleteBehavior.Cascade);
 
             modelBuilder.Entity<VehicleBusRide>()

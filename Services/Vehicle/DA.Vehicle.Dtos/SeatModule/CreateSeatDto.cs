@@ -12,7 +12,6 @@ namespace DA.Vehicle.Dtos.SeatModule
         private string _position;
 
         [Required]
-        [StringLength(30, ErrorMessage = "Position phải có độ dài từ 3 đến 30 ký tự.", MinimumLength = 3)]
         public string Position
         {
             get => _position;
@@ -22,7 +21,6 @@ namespace DA.Vehicle.Dtos.SeatModule
         private string _row;
 
         [Required]
-        [StringLength(30, ErrorMessage = "Row phải có độ dài từ 3 đến 30 ký tự.", MinimumLength = 3)]
         public string Row
         {
             get => _row;
@@ -32,7 +30,6 @@ namespace DA.Vehicle.Dtos.SeatModule
         private string _floor;
 
         [Required]
-        [StringLength(30, ErrorMessage = "Floor phải có độ dài từ 3 đến 30 ký tự.", MinimumLength = 3)]
         public string Floor
         {
             get => _floor;

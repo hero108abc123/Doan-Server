@@ -26,12 +26,15 @@ namespace DA.Vehicle.ApplicationService.BusModule.Implements
 
         public async Task AddSeatAsync(CreateSeatDto input)
         {
-            var bus = await _dbContext.Buses.FirstOrDefaultAsync(b => b.Id == input.BusId);
+            var bus = await _dbContext.BusRides.Include(br => br.VehicleBus).FirstOrDefaultAsync(b => b.Id == input.BusId);
             if (bus == null)
             {
                 throw new UserFriendlyException("Bus not found!");
             }
-
+            if(bus.Seats.Count >= bus.VehicleBus.TotalSeat)
+            {
+                throw new UserFriendlyException("Cannot add seat!");
+            }
             var seat = new VehicleSeat
             {
                 BusId = input.BusId,
